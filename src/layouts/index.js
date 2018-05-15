@@ -1,7 +1,33 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
+import Bio from '../components/Bio';
+import { ContentWrapper, PageWrapper } from "../components/Wrapper";
 import { rhythm, scale } from '../utils/typography'
+import styled from "styled-components";
+
+const HeaderWrapper = styled.div`
+  background: #25303C;
+  & h1,
+  & h3 {
+    color: rgba(255, 255, 255, 0.95);
+  }
+`;
+
+const FooterWrapper = styled.div`
+  background: #ccc;
+  color: #fff;
+  font-size: .85em;
+
+  ${ContentWrapper} {
+    padding: ${rhythm(.5)} 0;
+  }
+
+  & h1,
+  & h3 {
+    color: rgba(255, 255, 255, 0.95);
+  }
+`;
 
 class Template extends React.Component {
   render() {
@@ -36,13 +62,7 @@ class Template extends React.Component {
       )
     } else {
       header = (
-        <h3
-          style={{
-            fontFamily: 'Montserrat, sans-serif',
-            marginTop: 0,
-            marginBottom: rhythm(-1),
-          }}
-        >
+        <h3>
           <Link
             style={{
               boxShadow: 'none',
@@ -57,17 +77,22 @@ class Template extends React.Component {
       )
     }
     return (
-      <div
-        style={{
-          marginLeft: 'auto',
-          marginRight: 'auto',
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
-        {header}
-        {children()}
-      </div>
+      <PageWrapper>
+        <HeaderWrapper>
+          <ContentWrapper>
+            {header}
+            <Bio inverted/>
+          </ContentWrapper>
+        </HeaderWrapper>
+        <ContentWrapper minHeight="80vh">
+          {children()}
+        </ContentWrapper>
+        <FooterWrapper>
+          <ContentWrapper>
+            &copy; {new Date().getFullYear()} Wisr, Inc.
+          </ContentWrapper>
+        </FooterWrapper>
+      </PageWrapper>
     )
   }
 }
