@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://getwisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 May 2018 20:40:28 GMT</lastBuildDate><item><title><![CDATA[A New Way to Explore]]></title><description><![CDATA[In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed…]]></description><link>https://getwisr.io//a-new-way-to-explore/</link><guid isPermaLink="false">https://getwisr.io//a-new-way-to-explore/</guid><pubDate>Thu, 17 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed on the Industries tab and members of your network would have to click into a non-descript Communities tab to even see what they were.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://getwisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 May 2018 20:45:13 GMT</lastBuildDate><item><title><![CDATA[A New Way to Explore]]></title><description><![CDATA[In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed…]]></description><link>https://getwisr.io//a-new-way-to-explore/</link><guid isPermaLink="false">https://getwisr.io//a-new-way-to-explore/</guid><pubDate>Thu, 17 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed on the Industries tab and members of your network would have to click into a non-descript Communities tab to even see what they were.&lt;/p&gt;
 &lt;h2&gt;Explore Overview&lt;/h2&gt;
 &lt;p&gt;Now, when you click Explore at the top navigation bar, you’ll see an overview page that has a combination of Featured Communities and Industries so that members can immediately see and understand what Communities are, while still having quick access their Industries.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/wisr-product-blog/dashboard-to-explore-771095037d3129f8c7ae1d933fb5f354.gif&quot; alt=&quot;Gif of navigating from your Wisr dashboard to the Explore overview page showing 6 featured communities and your industries&quot;&gt;&lt;/p&gt;
@@ -7,7 +7,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/wisr-product-blog/static/admin-community-detail-91c914442eb5b3dffbbcc781a55b2d46-224d4.png&quot;
+    href=&quot;/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-64b15.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -19,20 +19,20 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 84.78893740902474%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAAC/UlEQVQ4y52Ty0/UUBSHGzfGf0BFQYUwM1FeM6AGecXYEESNAiGIC/CF+IAFMrhypSbEJv4XbgwKxMfKGBYiymMwcSExhMGB6QDD9D2dvqa9x3sLGnkp2uRLb5rbr79zTi8VnfpySIjPMqIiMZqmMkuxOBOZmWMi4XmXaIRdR4yZn51nwtPfmfBMhJmbjTJLs4uPp7+Gn7wbGvJRDx711vQNvIRng69geGwMJIMDXl8GyeQgaYugQxIMUF301bvmSCDoCeBNAVg1Bh+j7+GbPA2fRkebqExPIV11ut72l1Vb1zuCFp+KWwty1FqQ5i1ei1uCvrwpopGw8MctVolanxMhM4yFk5OT9ZTPf4I+dbYRPP5ydOXWXZSUVUglNTB1E5w0gm1cZJNDFhOhUAOVm3+Mrqm7BAWlNBZ2IU3TQDd0sCwLbNuGtJ3G2FuTTiO8Z0U4gYU5eSV0SWUNeIrKEC4ZJZNJEEXcO10HhBA4jvM38DbkCsfHJ4jwKH385BnwFVeits4gkmUJJEkGktQ0ze1I1wqzDxfThaU0ZOT60dU73UhVU8BxHBiGQcpxXyLSP7BWmOUtonE62O8NoGsdPUiQkjih5ApJ2ZaV/pWGCDZMZOXhemEF7PME3B6aeCBEaGLhTykpn6z/TegmDCJJVoATBNB0A6O7EBmZ+hb93FiyFwszvMWo/Tb+bSQRuIUY8EuLIGJ4vFbw5GVF2aqfOOH6HgYqwOctRJ3tHQjhKZtcArTlJbAEDkCRwBF5sHFChwiIdC2/JRxvoPZ4/XReoByOePKdy533bNlMOSwfd3hZcURVdRTDdHSBc5AqO6u92ow0EYZCoXoq21tUXVBcBfm+AATbO2FqbgRGZt6CKQo4nQKQiAOQddpeOWSbQI5oJAUw/GG0kWrZnVsRzCyIdWXkxXrzytn+c83si+r6FWqb2MHmG+ybmz3s6/ZuduBiG9t3oYV9Xtfq0ofpxzw93xq939S9/JBuqKX2UtTOLIrKyqGogzsw1P9zALPrByleHnpewPqLAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 85.45176110260337%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAADLUlEQVQ4y5WTy08TQRzHV8IBj0YTeZhgEYUChfIsbUEealSIF6Vw8MCFAyalCcZGEiKRjf49HAiPIsUir5hAOPhoCwUOpWx5lLJtt+1uu/PzN9uCgIJxkm9mZmf2k+/vMczG8tfsvW3Xe27fz0pSfHh3d5d1Op2sy+ViPR4Pu7a2xm5sbLCbm5uK6Ld1t5v9iecunJ1u9/CP79+Gl1dXP0yMj+cww+zHhtGxSZiwf4axaTvsBw6BDlkmcOEgBKSkDEm8ksC1IERAws/Tn6YambzCMv3DZ13S0+cvpbrmNtHumKNnkihJUjIpS4QQSZblE9E9Fb0DdE6tRTwDm23KwOQXafW65jai0bVCgaaezMwuAH90BMFgEO+Sc8bI36QMeq4AC0qq9K3tJtLS1gGFFQYEzoMQiUAEFQ6HFUXS+0QioUCom1M6DTQyt4tTDmub2tChXgFGowIcHBwoPySTyRPR/T8cGhmVulJfc/8JwfxBSU3TiUPqLB4XIRaLKc4uGSStFDC/qEKvNTwiVQ2PobiqkTjmlkCMx+GI5xVYNEoVVUT3WKvz+TwLpCGX1z8g9yobQFWmQ+AiugtBANsnjuBjkCAIypqGfgxMz2eBt7Bt7mqNCvBOuZ5g26QKggA+HIEYQilMFEXFHdWFOZxCIO1DWl2EggqL4phfgngkDNzWJnjX3ODzesHn2wE+FIZQKJRWak3zzPM8wQh+OzwNLNXUkQWbDSCGBQkGQOKDIAX2QdrfBRITLurFP0MuxJDVWgPUaaqJ48siAKaJ5wUIHPEQQhcJDFfktkGKxy7tw8lJm5HJLSjVY+5kmj91mU6enRyTt7wrstuzIvO+bTmy45UFblsWQ7xMn/gFUiplt88YGFWx1qjRtYCmvhXK6lphdNoGs14HzDmn4dDvVwokCFEQsMKnX8+x6Jkf762ve2BkZKSBaWpuqX5h6vR1mLr8HabOnd7eV5y138q97n/Dmfss3MDbAW7o3RA3ODjIWa1Wzmw2o/rSMnMWi4Xr6enZ6e7u3mtvb69lbly/lnUrN7soL+emOi83W30lg1EzzP8pMzNTnZWVVZSRkXH1Fy9FCkbotieTAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Wisr admin community detail page with a circle around the &quot;This community is featured&quot; toggle&quot;
         title=&quot;&quot;
-        src=&quot;/wisr-product-blog/static/admin-community-detail-91c914442eb5b3dffbbcc781a55b2d46-fb8a0.png&quot;
-        srcset=&quot;/wisr-product-blog/static/admin-community-detail-91c914442eb5b3dffbbcc781a55b2d46-1a291.png 148w,
-/wisr-product-blog/static/admin-community-detail-91c914442eb5b3dffbbcc781a55b2d46-2bc4a.png 295w,
-/wisr-product-blog/static/admin-community-detail-91c914442eb5b3dffbbcc781a55b2d46-fb8a0.png 590w,
-/wisr-product-blog/static/admin-community-detail-91c914442eb5b3dffbbcc781a55b2d46-526de.png 885w,
-/wisr-product-blog/static/admin-community-detail-91c914442eb5b3dffbbcc781a55b2d46-fa2eb.png 1180w,
-/wisr-product-blog/static/admin-community-detail-91c914442eb5b3dffbbcc781a55b2d46-224d4.png 1374w&quot;
+        src=&quot;/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-fb8a0.png&quot;
+        srcset=&quot;/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-1a291.png 148w,
+/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-2bc4a.png 295w,
+/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-fb8a0.png 590w,
+/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-526de.png 885w,
+/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-fa2eb.png 1180w,
+/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-64b15.png 1306w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
