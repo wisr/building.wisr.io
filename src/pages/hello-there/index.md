@@ -5,7 +5,7 @@ date: "2018-05-05T12:12:03.284Z"
 
 At Wisr, we are building a platform that helps students and alumni connect. Emphasis on building.
 
-Wisr is an ongoing project – our team is constantly thinking about, designing, and building new features. We are collecting feedback from our customers and our users, and are iterating on existing features to make them more intuitive.
+Wisr is an ongoing project – our team is always constantly thinking about, designing, and building new features. We are collecting feedback from our customers and our users, and are iterating on existing features to make them more intuitive.
 
 We try to move quickly, and we understand that you are busy. As a Wisr admin it can be hard to keep up. Often when we release an update, your students and alumni will see it before you do – they are the ones using Wisr every day to make meaningful connections.
 
