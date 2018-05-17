@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-a9baf7fe6e8e91b08d1e.js",
-      "component---src-pages-index-js-a9baf7fe6e8e91b08d1e.js.map"
+      "component---src-pages-index-js-fdb671a11c4d19fad76e.js",
+      "component---src-pages-index-js-fdb671a11c4d19fad76e.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -13,16 +13,16 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-3b669e3590cae0baaf1c.js",
-      "component---src-templates-blog-post-js-3b669e3590cae0baaf1c.js.map"
+      "component---src-templates-blog-post-js-dece46c773770131cd1f.js",
+      "component---src-templates-blog-post-js-dece46c773770131cd1f.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-2128ecf005fcf42d9bdb.js",
       "component---src-layouts-index-js-2128ecf005fcf42d9bdb.js.map"
     ],
     "path---index": [
-      "path---index-498f088af48bf8cef5a0.js",
-      "path---index-498f088af48bf8cef5a0.js.map"
+      "path---index-429f9241210be49d210e.js",
+      "path---index-429f9241210be49d210e.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -40,13 +40,17 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---a-new-way-to-explore": [
+      "path---a-new-way-to-explore-e8c5f96e0d245215083c.js",
+      "path---a-new-way-to-explore-e8c5f96e0d245215083c.js.map"
+    ],
     "path---hello-there": [
-      "path---hello-there-060e03430500b329ba8e.js",
-      "path---hello-there-060e03430500b329ba8e.js.map"
+      "path---hello-there-50ec1265dc14081d2957.js",
+      "path---hello-there-50ec1265dc14081d2957.js.map"
     ],
     "app": [
-      "app-e03e0440934dad30e4e1.js",
-      "app-e03e0440934dad30e4e1.js.map"
+      "app-6e6bdc08c554bf24bd93.js",
+      "app-6e6bdc08c554bf24bd93.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
