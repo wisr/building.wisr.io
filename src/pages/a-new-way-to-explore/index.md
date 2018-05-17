@@ -8,14 +8,14 @@ In order to increase visibility of Communities in your Wisr site, we've overhaul
 
 ## Explore Overview
 
-Now, when you click Explore at the top navigation bar, you'll see an overview page that has a combination of Featured Communities and Industries so that members can immediately see and understand what Communities are, while still having quick access their Industries.
+Now, when you click Explore at the top navigation bar, you'll see an overview page that has a combination of Featured Communities and Industries so that members can immediately see and understand what Communities are, while still having quick access to their Industries.
 
 
 ![Gif of navigating from your Wisr dashboard to the Explore overview page showing 6 featured communities and your industries](./dashboard-to-explore.gif)
 
 ### Featured Communities
 
-Wisr Admins can select up to 6 communities to feature from within Admin. When you are viewing a community in Wisr Admin, you can toggle the "This Community is Featured" option:
+Wisr Admins can select up to 6 Communities to feature from within Admin. When you are viewing a Community in Wisr Admin, you can toggle the "This Community is Featured" option:
 
 ![Wisr admin community detail page with a circle around the "This community is featured" toggle](./admin-community-detail.png)
 
@@ -23,18 +23,18 @@ We suggest starting with a diverse set that will provide members with a helpful 
 
 - A greek organization
 - One or two popular student groups
-- A popular regional alumni community
+- A popular regional alumni chapter
 - An affinity group (i.e. First Generation Students, Military)
 - Your alumni association
-- An interest-based community (i.e. Politics, LGBTQ+)
+- An interest-based group (i.e. Politics, LGBTQ+)
 
 Showing a wide variety of options will be a hint to all members that, even if they don't see their particular groups, that they might find them by clicking the "See All Communities" button.
 
-_Having a hard time picking 6 communities?_ Don't sweat it! Pick the ones you want, and Wisr automatically fills in the the rest with a random sampling of all of your site's Communities.
+_Having a hard time picking 6 Communities?_ Don't sweat it! Pick the ones you want, and Wisr automatically fills in the the rest with a random sampling of all of your site's Communities.
 
-#### A More Browsable Explore Communities
+#### A More Browsable Way to Explore Communities
 
-When a member clicks the "See All Communities" button, they will now see a search bar and sorting options. As you add more communities (some sites have 50+!), these updates will make it easier for members to find quickly find the Communities they're interested in joining.
+When a member clicks the "See All Communities" button, they will now see a search bar and sorting options. As you add more communities (some sites have 50+!), these updates will make it easier for members to quickly find the Communities they're interested in joining.
 
 ![Gif of the See All Communities page showing how to sort and search for a specific term to find a Community](./see-all-communities-overview.gif)
 
