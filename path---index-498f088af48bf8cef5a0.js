@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{394:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"At Wisr, we are building a platform that helps students and alumni connect. Emphasis on building. Wisr is an ongoing project – our team is…",fields:{slug:"/hello-there/"},frontmatter:{date:"05 May, 2018",title:"Hello There"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-498f088af48bf8cef5a0.js.map
