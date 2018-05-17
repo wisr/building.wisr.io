@@ -2,13 +2,14 @@
 #
 # Check https://circleci.com/docs/2.0/language-javascript/ for more details
 #
+general:
+
 version: 2
 jobs:
   build:
-    filters:
-      branches:
-        only:
-          - master
+    branches:
+      only:
+        - master
     docker:
       # specify the version you desire here
       - image: circleci/node:7.10
