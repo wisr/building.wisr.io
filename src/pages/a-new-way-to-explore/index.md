@@ -4,15 +4,13 @@ date: "2018-05-17T12:12:03.284Z"
 published: false
 ---
 
-In order to increase visibility of Communities in your Wisr site, we've overhauled the Explore tab entirely. Previously, the default landed on Industries and members of your network would have to click into Communities to even see what they were.
+In order to increase visibility of Communities in your Wisr site, we've overhauled the Explore tab entirely. Previously, the default landed on the Industries tab and members of your network would have to click into a non-descript Communities tab to even see what they were.
 
 ## Explore Overview
 
-Now, when you click Explore at the top navigation bar, you'll see an overview page that has a combination of featured Communities and Industries so that members can immediately see and understand what Communities are.
+Now, when you click Explore at the top navigation bar, you'll see an overview page that has a combination of Featured Communities and Industries so that members can immediately see and understand what Communities are, while still having quick access their Industries.
 
-The new Explore Overview page looks like this:
-
-![Wisr explore overview page showing 6 featured communities](./explore-overview.png)
+![Gif of navigating from your Wisr dashboard to the Explore overview page showing 6 featured communities and your industries](./dashboard-to-explore.gif)
 
 ### Featured Communities
 
@@ -20,26 +18,30 @@ Wisr Admins can select up to 6 communities to feature from within Admin. When yo
 
 ![Wisr admin community detail page with a circle around the "This community is featured" toggle](./admin-community-detail.png)
 
-We suggest starting with a diverse set that will provide members with a helpful introduction to all communities. For example, you might want to start with something like:
+We suggest starting with a diverse set that will provide members with a helpful introduction to all the Communities your Wisr site offers. For example, you might want to start with something like:
 
 - A greek organization
 - One or two popular student groups
 - A popular regional alumni community
 - An affinity group (i.e. First Generation Students, Military)
 - Your alumni association
-- An interest based community (i.e. Politics, LGBTQ+)
+- An interest-based community (i.e. Politics, LGBTQ+)
 
 Showing a wide variety of options will be a hint to all members that, even if they don't see their particular groups, that they might find them by clicking the "See All Communities" button.
 
-_Having a hard time picking 6 communities?_ Don't sweat it! Pick the ones you want, and Wisr automatically fills in the the rest with a random sampling of all of your site's communities.
+_Having a hard time picking 6 communities?_ Don't sweat it! Pick the ones you want, and Wisr automatically fills in the the rest with a random sampling of all of your site's Communities.
 
 #### A More Browsable Explore Communities
 
-When a member clicks the "See All Communities" button, they will now see a search bar and sorting options. As you add more communities (some sites have 50+!), these updates will make it easier for members to find things they are interested.
+When a member clicks the "See All Communities" button, they will now see a search bar and sorting options. As you add more communities (some sites have 50+!), these updates will make it easier for members to find quickly find the Communities they're interested in joining.
+
+![Gif of the See All Communities page showing how to sort and search for a specific term to find a Community](./see-all-communities-overview.gif)
 
 ### My Industries
 
-The Explore Overview page also has an introduction to the Industries section. The My Communities section shows all of the Industries that a member has added to their profile. Wisr will also suggest a few related Industries that can be explored or added to a member's profile.
+The Explore Overview page also has an introduction to the Industries section. The My Industries section shows all of the Industries that a member has added to their profile. Wisr will also suggest a few related Industries that can be explored or added to a member's profile
+
+![Gif of the My Industries page showing how to add a suggested industry and navigate to the Industries overview page](./my-industries-overview.gif)
 
 ---
 
