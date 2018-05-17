@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
-    description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    title: 'Building Wisr',
+    author: 'Wisr, Inc.',
+    description: 'The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.',
+    siteUrl: 'https://getwisr.io/',
   },
   pathPrefix: '/wisr-product-blog',
   plugins: [
@@ -52,6 +52,20 @@ module.exports = {
       resolve: 'gatsby-plugin-typography',
       options: {
         pathToConfigModule: 'src/utils/typography',
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-77902999-8",
+        // Puts tracking script in the head instead of the body
+        head: false,
+        // Setting this parameter is optional
+        anonymize: true,
+        // Setting this parameter is also optional
+        respectDNT: true,
+        // Avoids sending pageview hits from custom paths
+        exclude: ["/preview/**"],
       },
     },
   ],

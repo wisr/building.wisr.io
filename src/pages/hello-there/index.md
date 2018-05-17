@@ -1,6 +1,7 @@
 ---
 title: Hello There
 date: "2018-05-05T12:12:03.284Z"
+published: true
 ---
 
 At Wisr, we are building a platform that helps students and alumni connect. Emphasis on building.

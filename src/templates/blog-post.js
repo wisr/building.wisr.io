@@ -11,7 +11,7 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     const { previous, next } = this.props.pathContext
-
+    console.log(next);
     return (
       <div>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
@@ -43,7 +43,7 @@ class BlogPostTemplate extends React.Component {
             padding: 0,
           }}
         >
-          {previous && (
+          {previous && previous.frontmatter.published && (
             <li>
               <Link to={previous.fields.slug} rel="prev">
                 ← {previous.frontmatter.title}
@@ -51,7 +51,7 @@ class BlogPostTemplate extends React.Component {
             </li>
           )}
 
-          {next && (
+          {next && next.frontmatter.published && (
             <li>
               <Link to={next.fields.slug} rel="next">
                 {next.frontmatter.title} →
@@ -80,6 +80,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        published
       }
     }
   }
