@@ -10,6 +10,7 @@ In order to increase visibility of Communities in your Wisr site, we've overhaul
 
 Now, when you click Explore at the top navigation bar, you'll see an overview page that has a combination of Featured Communities and Industries so that members can immediately see and understand what Communities are, while still having quick access their Industries.
 
+
 ![Gif of navigating from your Wisr dashboard to the Explore overview page showing 6 featured communities and your industries](./dashboard-to-explore.gif)
 
 ### Featured Communities
@@ -41,7 +42,7 @@ When a member clicks the "See All Communities" button, they will now see a searc
 
 The Explore Overview page also has an introduction to the Industries section. The My Industries section shows all of the Industries that a member has added to their profile. Wisr will also suggest a few related Industries that can be explored or added to a member's profile.
 
-![Gif of the My Industries page showing how to add a suggested industry and navigate to the Industries overview page](./my-industries-overview.gif)
+![My Industries page showing how to add a suggested industry or view industry in the Industries overview page](./add-view-industry.png)
 
 ---
 
