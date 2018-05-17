@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/wisr-product-blog/app-6e6bdc08c554bf24bd93.js","a608ef8f026dc6257aa5256b8334a658"],["/wisr-product-blog/commons-b473c4ddef8d57bfbb89.js","b97a9e1bb8d0c876b9b1b9e743a42300"],["/wisr-product-blog/index.html","bdef04d23dd91c23f280b2b7d7b83674"],["/wisr-product-blog/offline-plugin-app-shell-fallback/index.html","be5263888a50adc9828be830d029e5a8"]];
+var precacheConfig = [["/wisr-product-blog/app-6e6bdc08c554bf24bd93.js","a608ef8f026dc6257aa5256b8334a658"],["/wisr-product-blog/commons-b473c4ddef8d57bfbb89.js","b97a9e1bb8d0c876b9b1b9e743a42300"],["/wisr-product-blog/index.html","aab8b01e8a2a464a9cc69e8982432ffd"],["/wisr-product-blog/offline-plugin-app-shell-fallback/index.html","7a2032af287e897635b015730df48dfd"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 

@@ -1,43 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://getwisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 May 2018 20:25:33 GMT</lastBuildDate><item><title><![CDATA[A New Way to Explore]]></title><description><![CDATA[In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed…]]></description><link>https://getwisr.io//a-new-way-to-explore/</link><guid isPermaLink="false">https://getwisr.io//a-new-way-to-explore/</guid><pubDate>Thu, 17 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed on Industries and members of your network would have to click into Communities to even see what they were.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://getwisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 May 2018 20:40:28 GMT</lastBuildDate><item><title><![CDATA[A New Way to Explore]]></title><description><![CDATA[In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed…]]></description><link>https://getwisr.io//a-new-way-to-explore/</link><guid isPermaLink="false">https://getwisr.io//a-new-way-to-explore/</guid><pubDate>Thu, 17 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed on the Industries tab and members of your network would have to click into a non-descript Communities tab to even see what they were.&lt;/p&gt;
 &lt;h2&gt;Explore Overview&lt;/h2&gt;
-&lt;p&gt;Now, when you click Explore at the top navigation bar, you’ll see an overview page that has a combination of featured Communities and Industries so that members can immediately see and understand what Communities are.&lt;/p&gt;
-&lt;p&gt;The new Explore Overview page looks like this:&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/wisr-product-blog/static/explore-overview-4c46ab2b37e90cfff826d31c85048dde-224d4.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 84.78893740902474%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAAEWUlEQVQ4y4WT21NTVxTGz0wfOu1T/4Fe3nxx2s70Qa3aUtMihoIQOoDRSnTEgqLYIfFCkBokSgjIXTFppZZSi+OFSxW1EEp1RkFIToJoa8lFcrAQEAyEJGefnP11g2P7otM185t9WbPXfHvtb3OTPtc74QWvKSzNmgBiikSDpiczE6bg3LRJRshEsfAvQJgRYYRMRA6aCJ0zSZhnZ6bLnoYmK0Z9I8s47e6y9fUV7bA03oDl5HVcaRtAzzUetusuNFt70XSqG98zFsfvGm7AWncdlqqrqDW1odrcgdpFKi6jytyJgr3mdG7t+xrFho/0MdXnx4gqsZTUV14kzd9eI9a6DqJJKyOZyhKiVh4h6QkGkhynJ/ErdSThwwNEueYgUa4+SBLYOiPNLG785DBWv6dJ5eyOfoUYDWEuOEMj4SCdngpgdmaGrZ9CksKIxSKMKAAZLwn6LElht/eruLuDgwpZlp8n6ItOLOa7bHfRdP4Gaps6YG2+DAfP49LlDlgsTfR86wWZUgqn06niBlnBWCyGoM9PZ0d9dNb7CE/cXgT++Auz/nGIRERUlFBWcwZZ23YgfuNmZOXpodPlIi05DhlpKpq/J0+WJALX8LCKGxoaWiroHfPQkT/vUbfXjb8fP0ZgYhJTkwFMTU3haXAOFyzlOLFfg6KdGTAW7mUFdyN/Txbq6qpoa+tPS1fkeV7F2YfsCikmYWCqn3b5r1Ah7H9ho4xF+diUsg7KuOVQqz6GTrsbW9UpyMnaTDPT02RRFDEyMvJMocQUjo49piPuMfrAMwbf+AScD3y4aX+I3wYf4o59GG0dF1HbUIOCb7Qw1pjx86VzMJebYSw5Sk9UV8ox1meXy6XiHHa7QiQSzv3yOzXUt1DDyRY0tlxESfFhZGZmITn1S+jyd6HKWona6koc0Rehou4M+m7dxtWr7ejubqe3b3UtXdnBs0fhHQ5WkKDYsJ/u2qmh29XbsC93L06X69FwaCsMOak4dfwAVNlJKD20DfUlWlhqjGhttqDeVIhT5Qdpc6NxyTY8zxQymYpIJIKM7Uoan/guTVy3FpkpydB/nYONn67ChrgVyFYnIyM7FVu2xuOrHUnYmZcCXd4WxK9ahhUfLKcJ8Yr/esjzDgVhCkvLSmlegYbqjbkoryrGWWsDzEcLYSzej8bq4zjbUoOjVbtQWK7BsTodTlYYkKNJh1q9iWq1WplIEoaf2yYSiSIcjcpRQmJRIsoRNg+Hw3J0cS8qyjPBBXkhIspLP4JSOSbFZCaCeU+SmeWY75lNWDh5PpUp5D9b8kVUBF2IgIbCL7RNP38f7dds8Pj8mJ+fwwz7nvOhEAKBSTzyC3AHZQzY+S+47p6eNeOCMH7/zsC4s++m4LT1CQ+H7wken09wj7oFj8cjuD1eIXufXli5LkmobTgt9Np6hM7OTsFmswnnWn4UrE1n/T/08oG2rl83cCxeZbzJePv/eP2Vl+fe4Li32PjaP6mW0HDT4IRIAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Wisr explore overview page showing 6 featured communities&quot;
-        title=&quot;&quot;
-        src=&quot;/wisr-product-blog/static/explore-overview-4c46ab2b37e90cfff826d31c85048dde-fb8a0.png&quot;
-        srcset=&quot;/wisr-product-blog/static/explore-overview-4c46ab2b37e90cfff826d31c85048dde-1a291.png 148w,
-/wisr-product-blog/static/explore-overview-4c46ab2b37e90cfff826d31c85048dde-2bc4a.png 295w,
-/wisr-product-blog/static/explore-overview-4c46ab2b37e90cfff826d31c85048dde-fb8a0.png 590w,
-/wisr-product-blog/static/explore-overview-4c46ab2b37e90cfff826d31c85048dde-526de.png 885w,
-/wisr-product-blog/static/explore-overview-4c46ab2b37e90cfff826d31c85048dde-fa2eb.png 1180w,
-/wisr-product-blog/static/explore-overview-4c46ab2b37e90cfff826d31c85048dde-224d4.png 1374w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+&lt;p&gt;Now, when you click Explore at the top navigation bar, you’ll see an overview page that has a combination of Featured Communities and Industries so that members can immediately see and understand what Communities are, while still having quick access their Industries.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/wisr-product-blog/dashboard-to-explore-771095037d3129f8c7ae1d933fb5f354.gif&quot; alt=&quot;Gif of navigating from your Wisr dashboard to the Explore overview page showing 6 featured communities and your industries&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Featured Communities&lt;/h3&gt;
 &lt;p&gt;Wisr Admins can select up to 6 communities to feature from within Admin. When you are viewing a community in Wisr Admin, you can toggle the “This Community is Featured” option:&lt;/p&gt;
 &lt;p&gt;
@@ -76,21 +40,23 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;We suggest starting with a diverse set that will provide members with a helpful introduction to all communities. For example, you might want to start with something like:&lt;/p&gt;
+&lt;p&gt;We suggest starting with a diverse set that will provide members with a helpful introduction to all the Communities your Wisr site offers. For example, you might want to start with something like:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A greek organization&lt;/li&gt;
 &lt;li&gt;One or two popular student groups&lt;/li&gt;
 &lt;li&gt;A popular regional alumni community&lt;/li&gt;
 &lt;li&gt;An affinity group (i.e. First Generation Students, Military)&lt;/li&gt;
 &lt;li&gt;Your alumni association&lt;/li&gt;
-&lt;li&gt;An interest based community (i.e. Politics, LGBTQ+)&lt;/li&gt;
+&lt;li&gt;An interest-based community (i.e. Politics, LGBTQ+)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Showing a wide variety of options will be a hint to all members that, even if they don’t see their particular groups, that they might find them by clicking the “See All Communities” button.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Having a hard time picking 6 communities?&lt;/em&gt; Don’t sweat it! Pick the ones you want, and Wisr automatically fills in the the rest with a random sampling of all of your site’s communities.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Having a hard time picking 6 communities?&lt;/em&gt; Don’t sweat it! Pick the ones you want, and Wisr automatically fills in the the rest with a random sampling of all of your site’s Communities.&lt;/p&gt;
 &lt;h4&gt;A More Browsable Explore Communities&lt;/h4&gt;
-&lt;p&gt;When a member clicks the “See All Communities” button, they will now see a search bar and sorting options. As you add more communities (some sites have 50+!), these updates will make it easier for members to find things they are interested.&lt;/p&gt;
+&lt;p&gt;When a member clicks the “See All Communities” button, they will now see a search bar and sorting options. As you add more communities (some sites have 50+!), these updates will make it easier for members to find quickly find the Communities they’re interested in joining.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/wisr-product-blog/see-all-communities-overview-224d794992a5e759086b919580246a52.gif&quot; alt=&quot;Gif of the See All Communities page showing how to sort and search for a specific term to find a Community&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;My Industries&lt;/h3&gt;
-&lt;p&gt;The Explore Overview page also has an introduction to the Industries section. The My Communities section shows all of the Industries that a member has added to their profile. Wisr will also suggest a few related Industries that can be explored or added to a member’s profile.&lt;/p&gt;
+&lt;p&gt;The Explore Overview page also has an introduction to the Industries section. The My Industries section shows all of the Industries that a member has added to their profile. Wisr will also suggest a few related Industries that can be explored or added to a member’s profile&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/wisr-product-blog/my-industries-overview-6b7165657054fe964baa078bfccdf709.gif&quot; alt=&quot;Gif of the My Industries page showing how to add a suggested industry and navigate to the Industries overview page&quot;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;We’d love to hear your feedback and questions about Featured Communities and the new Explore Overview page. Drop us a line at &lt;a href=&quot;support@wisr.io&quot;&gt;support@wisr.io&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Thanks for reading!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello There]]></title><description><![CDATA[At Wisr, we are building a platform that helps students and alumni connect. Emphasis on building. Wisr is an ongoing project – our team is…]]></description><link>https://getwisr.io//hello-there/</link><guid isPermaLink="false">https://getwisr.io//hello-there/</guid><pubDate>Sat, 05 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;At Wisr, we are building a platform that helps students and alumni connect. Emphasis on building.&lt;/p&gt;
