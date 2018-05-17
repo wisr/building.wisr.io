@@ -39,7 +39,7 @@ When a member clicks the "See All Communities" button, they will now see a searc
 
 ### My Industries
 
-The Explore Overview page also has an introduction to the Industries section. The My Industries section shows all of the Industries that a member has added to their profile. Wisr will also suggest a few related Industries that can be explored or added to a member's profile
+The Explore Overview page also has an introduction to the Industries section. The My Industries section shows all of the Industries that a member has added to their profile. Wisr will also suggest a few related Industries that can be explored or added to a member's profile.
 
 ![Gif of the My Industries page showing how to add a suggested industry and navigate to the Industries overview page](./my-industries-overview.gif)
 
