@@ -3,12 +3,12 @@
 # Check https://circleci.com/docs/2.0/language-javascript/ for more details
 #
 version: 2
-general:
-  branches:
-    only:
-      - master
 jobs:
   build:
+    filters:
+      branches:
+        only:
+          - master
     docker:
       # specify the version you desire here
       - image: circleci/node:7.10
@@ -37,5 +37,5 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
 
-      # deploy changes!
+      # deploy changes
       - run: yarn deploy

@@ -1,5 +1,5 @@
 ---
-title: Hello There!
+title: Hello There
 date: "2018-05-05T12:12:03.284Z"
 ---
 
