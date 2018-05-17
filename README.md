@@ -1,9 +1,11 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# Building Wisr
+A place to talk about Wisr updates
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
+## Local Setup
+`yarn install`
 
 ## Running in development
-`gatsby develop`
+`yarn dev`
+
+## Deploying updates
+`yarn deploy`
