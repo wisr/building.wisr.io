@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://getwisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 May 2018 20:56:34 GMT</lastBuildDate><item><title><![CDATA[A New Way to Explore]]></title><description><![CDATA[In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed…]]></description><link>https://getwisr.io//a-new-way-to-explore/</link><guid isPermaLink="false">https://getwisr.io//a-new-way-to-explore/</guid><pubDate>Thu, 17 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed on the Industries tab and members of your network would have to click into a non-descript Communities tab to even see what they were.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://getwisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 May 2018 20:58:22 GMT</lastBuildDate><item><title><![CDATA[A New Way to Explore]]></title><description><![CDATA[In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed…]]></description><link>https://getwisr.io//a-new-way-to-explore/</link><guid isPermaLink="false">https://getwisr.io//a-new-way-to-explore/</guid><pubDate>Thu, 17 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed on the Industries tab and members of your network would have to click into a non-descript Communities tab to even see what they were.&lt;/p&gt;
 &lt;h2&gt;Explore Overview&lt;/h2&gt;
 &lt;p&gt;Now, when you click Explore at the top navigation bar, you’ll see an overview page that has a combination of Featured Communities and Industries so that members can immediately see and understand what Communities are, while still having quick access their Industries.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/wisr-product-blog/dashboard-to-explore-771095037d3129f8c7ae1d933fb5f354.gif&quot; alt=&quot;Gif of navigating from your Wisr dashboard to the Explore overview page showing 6 featured communities and your industries&quot;&gt;&lt;/p&gt;
@@ -56,7 +56,42 @@
 &lt;p&gt;&lt;img src=&quot;/wisr-product-blog/see-all-communities-overview-224d794992a5e759086b919580246a52.gif&quot; alt=&quot;Gif of the See All Communities page showing how to sort and search for a specific term to find a Community&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;My Industries&lt;/h3&gt;
 &lt;p&gt;The Explore Overview page also has an introduction to the Industries section. The My Industries section shows all of the Industries that a member has added to their profile. Wisr will also suggest a few related Industries that can be explored or added to a member’s profile.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./add-view-industry.png&quot; alt=&quot;My Industries page showing how to add a suggested industry or view industry in the Industries overview page&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-64b15.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 85.45176110260337%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAAEi0lEQVQ4y6VTbUxTVxi+/iHz75IlW6LZjyVzuGSiTrdL6WQT3WIap1iM05jArCgugWI0oEyBC86pg0yIDj9QJ4tOhkodIrTM+kFhpQgDZ0VQaOva289729ICvXDPs3O7ZP/2ayd58rznPe8577n3eQ5jbr3x+vOR/gpPwMtJs1Ll9PQ05/N5uXhE5OLTU5wky1wiIXGhYJCLxePcZDTKRYUA5+E9XCgU5MLhUGXQ46y0259UtxpuvcE8stkynI4J3Hv4ACbzXVh6etBrteGq4TbMXXdx/cpVGFpb8Wx0FN0PHqD79x50mXvRN/gYXfd70fIrrblnxZhfxEBvt5oBwNbX10tvLlggqd9PS6xctlTat0cnHXzvNengwlelvJT5UolWKx0+UiVtyMyUPs3eKH2hK5D2llZJC1NXS4vSd0pbm6yJ31wCnNaH6ckDfzx/lmzO+hCVX20j2z9fgz/ar2Fgw9uwX+Yw1HQepqNVOHL8B+zersOOXB30B/bgxHf1UK/ZgszsrwnXFyYjM8BwV/s/B547VU+yVi7Buo8zyNLFb6G8pBRbtMtQUpaD4s/WYqeahb6Ew5I0NdKWrYR640fYT2sy1GuxPENLth25RO6PODExaFMxMwmJbb52lbBsOtat05Cs1VnQF+9FxqpMpL6TitTF7yJbq0VD42VoNuVjVdYmlFcfQ1lFNVakZ+GDVdlEV36SPHzyDC8eD6kYs9nMhsNhIggCAoEAEUURk5NRKPNgMKjkEAgKECMxiOEIQqEQXY9RTEKgtZFolMTiU4Q6BMbOThVjMpnYWCxG5ubmMDs7SyRJQiKRSGKWxjOUw5NTCAhhhCNRxONTFHHEYnFMTdGY7o1NxsjM9AyMJqOK6evrY/1+P3E4HJiYmCDj4+OI0I1KA+o/KA1kGl/8qRk7igpRQT/1SlMjThw9jMsXz2FfkZ5s1Kwl7e2t8PpCKsbSY2HFkEj8Hj+EgEC8Xi98Ph9okyQrc2pm1NScRt6uvfj2eC0az9Tgm0O70dR0Cfv3lxHN+vWk614H3C89KsZutbN2n520jbehz28l+I+Rn78LaWnLodVuxrEDBdjySRpqjlXjUM1Zkr29gBju3IXX7VQxNouNdQseMvRyCPa/7CRKb6MII4iC8sOpMCEqhIDa2lrkfalDXV0dvj96EPt2bsPPly6g2XCH1J8+S2z9gxh5alcxz1+MsQP9g+TM6fO4ef0W6ejoQENDA35pbkan0YRzjRfQdrsdFks3bt68AaOxA6dO1mKrbgOO15VjcGCQGI2dxOl0oL+/n4pitbI8z8v2p0/JhMMhu91umT502aHEHo88OvZcdrjc8rOxcXl0dEz2enlZDAryo5eP5D/5x7LL4ZKpmHORSIQ2taQzBoNBpQigJAQhlPQf9WWSFc8JggjeF6AIJmMlp/gzIkQgBsVkrcvlwvDwMFpaWjKYnJyc5UVFRW4KL4VHr9fzlHmFCwsL+bKyMr6K4/iKinK+tLT03zWFFRQXF/P5+fme3Nxcv0ajWcHQ8QrFIorU/4OUlJRF8+bNm/83Vgy6Diq1GEQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;My Industries page showing how to add a suggested industry or view industry in the Industries overview page&quot;
+        title=&quot;&quot;
+        src=&quot;/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-fb8a0.png&quot;
+        srcset=&quot;/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-1a291.png 148w,
+/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-2bc4a.png 295w,
+/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-fb8a0.png 590w,
+/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-526de.png 885w,
+/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-fa2eb.png 1180w,
+/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-64b15.png 1306w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;We’d love to hear your feedback and questions about Featured Communities and the new Explore Overview page. Drop us a line at &lt;a href=&quot;support@wisr.io&quot;&gt;support@wisr.io&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Thanks for reading!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello There]]></title><description><![CDATA[At Wisr, we are building a platform that helps students and alumni connect. Emphasis on building. Wisr is an ongoing project – our team is…]]></description><link>https://getwisr.io//hello-there/</link><guid isPermaLink="false">https://getwisr.io//hello-there/</guid><pubDate>Sat, 05 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;At Wisr, we are building a platform that helps students and alumni connect. Emphasis on building.&lt;/p&gt;
