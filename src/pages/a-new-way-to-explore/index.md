@@ -43,6 +43,6 @@ The Explore Overview page also has an introduction to the Industries section. Th
 
 ---
 
-We'd love to hear your feedback and questions about Featured Communities and the new Explore Overview page. Drop us a line at <a href="customerservice@wisr.io">customerservice@wisr.io</a>
+We'd love to hear your feedback and questions about Featured Communities and the new Explore Overview page. Drop us a line at <a href="support@wisr.io">support@wisr.io</a>
 
 Thanks for reading!

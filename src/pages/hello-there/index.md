@@ -16,4 +16,4 @@ We are excited to share some insight into what we are creating.
 
 Thanks for reading.
 
-P.S. If you have thoughts, ideas, feedback, questions or just want to chat, you can talk to us any time at <a href="customerservice@wisr.io">customerservice@wisr.io</a>
+P.S. If you have thoughts, ideas, feedback, questions or just want to chat, you can talk to us any time at <a href="support@wisr.io">support@wisr.io</a>
