@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://getwisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 18 May 2018 14:36:22 GMT</lastBuildDate><item><title><![CDATA[A New Way to Explore]]></title><description><![CDATA[In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed…]]></description><link>https://getwisr.io//a-new-way-to-explore/</link><guid isPermaLink="false">https://getwisr.io//a-new-way-to-explore/</guid><pubDate>Thu, 17 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed on the Industries tab and members of your network would have to click into a non-descript Communities tab to even see what they were.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://building.wisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 18 May 2018 15:08:48 GMT</lastBuildDate><item><title><![CDATA[A New Way to Explore]]></title><description><![CDATA[In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed…]]></description><link>https://building.wisr.io//a-new-way-to-explore/</link><guid isPermaLink="false">https://building.wisr.io//a-new-way-to-explore/</guid><pubDate>Thu, 17 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed on the Industries tab and members of your network would have to click into a non-descript Communities tab to even see what they were.&lt;/p&gt;
 &lt;h2&gt;Explore Overview&lt;/h2&gt;
 &lt;p&gt;Now, when you click Explore at the top navigation bar, you’ll see an overview page that has a combination of Featured Communities and Industries so that members can immediately see and understand what Communities are, while still having quick access to their Industries.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/wisr-product-blog/dashboard-to-explore-771095037d3129f8c7ae1d933fb5f354.gif&quot; alt=&quot;Gif of navigating from your Wisr dashboard to the Explore overview page showing 6 featured communities and your industries&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/dashboard-to-explore-771095037d3129f8c7ae1d933fb5f354.gif&quot; alt=&quot;Gif of navigating from your Wisr dashboard to the Explore overview page showing 6 featured communities and your industries&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Featured Communities&lt;/h3&gt;
 &lt;p&gt;Wisr Admins can select up to 6 Communities to feature from within Admin. When you are viewing a Community in Wisr Admin, you can toggle the “This Community is Featured” option:&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-64b15.png&quot;
+    href=&quot;/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-64b15.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -26,13 +26,13 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Wisr admin community detail page with a circle around the &quot;This community is featured&quot; toggle&quot;
         title=&quot;&quot;
-        src=&quot;/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-fb8a0.png&quot;
-        srcset=&quot;/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-1a291.png 148w,
-/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-2bc4a.png 295w,
-/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-fb8a0.png 590w,
-/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-526de.png 885w,
-/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-fa2eb.png 1180w,
-/wisr-product-blog/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-64b15.png 1306w&quot;
+        src=&quot;/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-fb8a0.png&quot;
+        srcset=&quot;/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-1a291.png 148w,
+/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-2bc4a.png 295w,
+/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-fb8a0.png 590w,
+/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-526de.png 885w,
+/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-fa2eb.png 1180w,
+/static/admin-community-detail-2f1803e49591b694691cf04f29b41d83-64b15.png 1306w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -53,13 +53,13 @@
 &lt;p&gt;&lt;em&gt;Having a hard time picking 6 Communities?&lt;/em&gt; Don’t sweat it! Pick the ones you want, and Wisr automatically fills in the the rest with a random sampling of all of your site’s Communities.&lt;/p&gt;
 &lt;h4&gt;A More Browsable Way to Explore Communities&lt;/h4&gt;
 &lt;p&gt;When a member clicks the “See All Communities” button, they will now see a search bar and sorting options. As you add more communities (some sites have 50+!), these updates will make it easier for members to quickly find the Communities they’re interested in joining.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/wisr-product-blog/see-all-communities-overview-224d794992a5e759086b919580246a52.gif&quot; alt=&quot;Gif of the See All Communities page showing how to sort and search for a specific term to find a Community&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/see-all-communities-overview-224d794992a5e759086b919580246a52.gif&quot; alt=&quot;Gif of the See All Communities page showing how to sort and search for a specific term to find a Community&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;My Industries&lt;/h3&gt;
 &lt;p&gt;The Explore Overview page also has an introduction to Industries. The My Industries section shows all of the Industries that a member has added to their profile. Wisr will also suggest a few related Industries that can be explored or added to a member’s profile when they hover over one of the grayed out industry cards.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-64b15.png&quot;
+    href=&quot;/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-64b15.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -78,13 +78,13 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;My Industries page showing how to add a suggested industry or view industry in the Industries overview page&quot;
         title=&quot;&quot;
-        src=&quot;/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-fb8a0.png&quot;
-        srcset=&quot;/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-1a291.png 148w,
-/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-2bc4a.png 295w,
-/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-fb8a0.png 590w,
-/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-526de.png 885w,
-/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-fa2eb.png 1180w,
-/wisr-product-blog/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-64b15.png 1306w&quot;
+        src=&quot;/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-fb8a0.png&quot;
+        srcset=&quot;/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-1a291.png 148w,
+/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-2bc4a.png 295w,
+/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-fb8a0.png 590w,
+/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-526de.png 885w,
+/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-fa2eb.png 1180w,
+/static/add-view-industry-4d44534b69ee0e9cb6a80510e0349550-64b15.png 1306w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -94,7 +94,7 @@
     &lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;We’d love to hear your feedback and questions about Featured Communities and the new Explore Overview page. Drop us a line at &lt;a href=&quot;support@wisr.io&quot;&gt;support@wisr.io&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Thanks for reading!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello There]]></title><description><![CDATA[At Wisr, we are building a platform that helps students and alumni connect. Emphasis on building. Wisr is an ongoing project – our team is…]]></description><link>https://getwisr.io//hello-there/</link><guid isPermaLink="false">https://getwisr.io//hello-there/</guid><pubDate>Sat, 05 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;At Wisr, we are building a platform that helps students and alumni connect. Emphasis on building.&lt;/p&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello There]]></title><description><![CDATA[At Wisr, we are building a platform that helps students and alumni connect. Emphasis on building. Wisr is an ongoing project – our team is…]]></description><link>https://building.wisr.io//hello-there/</link><guid isPermaLink="false">https://building.wisr.io//hello-there/</guid><pubDate>Sat, 05 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;At Wisr, we are building a platform that helps students and alumni connect. Emphasis on building.&lt;/p&gt;
 &lt;p&gt;Wisr is an ongoing project – our team is constantly thinking about, designing, and building new features. We are collecting feedback from our customers and our members, and we’re iterating on existing features to make them more intuitive.&lt;/p&gt;
 &lt;p&gt;We try to move quickly, and we understand that you are busy. As a Wisr admin it can be hard to keep up with all of the big features, enhancements, and small tweaks we make. Often when we release an update, your students and alumni may see it before you do – they are the ones using Wisr every day to make meaningful connections.&lt;/p&gt;
 &lt;p&gt;Building Wisr is a space where we, the Wisr Product and Engineering teams, can keep you up-to-date on what we are building. As we release new and important updates to Wisr, we will tell you about it here. Our goal is not just to tell you that we built a new thing, but to explain &lt;em&gt;why&lt;/em&gt; we built it. When you meet with a member of your Wisr network, maybe in a career services advising session, or at an alumni event, we want to make sure that you know everything there is to know about Wisr.&lt;/p&gt;
