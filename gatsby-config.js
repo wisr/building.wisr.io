@@ -3,9 +3,9 @@ module.exports = {
     title: 'Building Wisr',
     author: 'Wisr, Inc.',
     description: 'The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.',
-    siteUrl: 'https://getwisr.io/',
+    siteUrl: 'https://building.wisr.io/',
   },
-  pathPrefix: '/wisr-product-blog',
+  pathPrefix: '/',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -68,5 +68,10 @@ module.exports = {
         exclude: ["/preview/**"],
       },
     },
+    // FIXME: Remove this after release of Gatsby v2
+    // This is here to fix a bug that causes the site to occasionally 404
+    // if you load a page that is trying to access deleted files.
+    // https://github.com/gatsbyjs/gatsby/issues/3582
+    'gatsby-plugin-remove-serviceworker'
   ],
 }
