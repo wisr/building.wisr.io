@@ -1,7 +1,7 @@
 ---
 title: A New Way to Explore
 date: "2018-05-17T12:12:03.284Z"
-published: false
+published: true
 ---
 
 In order to increase visibility of Communities in your Wisr site, we've overhauled the Explore tab entirely. Previously, the default landed on the Industries tab and members of your network would have to click into a non-descript Communities tab to even see what they were.
