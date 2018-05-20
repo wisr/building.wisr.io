@@ -8,6 +8,7 @@ import styled from "styled-components";
 
 const HeaderWrapper = styled.div`
   background: #25303C;
+  padding-bottom: 1em;
   & h1,
   & h3 {
     color: rgba(255, 255, 255, 0.95);
@@ -15,8 +16,8 @@ const HeaderWrapper = styled.div`
 `;
 
 const FooterWrapper = styled.div`
-  background: #ccc;
-  color: #fff;
+  background: #25303C;
+  color: rgba(255, 255, 255, 0.95);
   font-size: .85em;
 
   ${ContentWrapper} {
@@ -89,6 +90,7 @@ class Template extends React.Component {
         </ContentWrapper>
         <FooterWrapper>
           <ContentWrapper>
+            <Bio inverted/>
             &copy; {new Date().getFullYear()} Wisr, Inc.
           </ContentWrapper>
         </FooterWrapper>

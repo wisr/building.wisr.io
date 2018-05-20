@@ -1,10 +1,25 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
-import get from 'lodash/get'
+import React from 'react';
 
-import Bio from '../components/Bio'
-import { rhythm, scale } from '../utils/typography'
+import Bio from '../components/Bio';
+import Helmet from 'react-helmet';
+import Link from 'gatsby-link';
+import get from 'lodash/get';
+import styled from "styled-components";
+import { rhythm, scale } from '../utils/typography';
+
+const Label = styled.span`
+  display: block;
+`;
+
+const StyledLink = styled(Link)`
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: 800;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+`;
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -32,7 +47,6 @@ class BlogPostTemplate extends React.Component {
             marginBottom: rhythm(1),
           }}
         />
-        <Bio />
 
         <ul
           style={{
@@ -40,22 +54,26 @@ class BlogPostTemplate extends React.Component {
             flexWrap: 'wrap',
             justifyContent: 'space-between',
             listStyle: 'none',
+            marginLeft: 0,
+            marginReft: 0,
             padding: 0,
           }}
         >
           {previous && previous.frontmatter.published && (
             <li>
-              <Link to={previous.fields.slug} rel="prev">
+              <Label>Previous Post</Label>
+              <StyledLink to={previous.fields.slug} rel="prev">
                 ← {previous.frontmatter.title}
-              </Link>
+              </StyledLink>
             </li>
           )}
 
           {next && next.frontmatter.published && (
             <li>
-              <Link to={next.fields.slug} rel="next">
+              <Label>Next Post</Label>
+              <StyledLink to={next.fields.slug} rel="next">
                 {next.frontmatter.title} →
-              </Link>
+              </StyledLink>
             </li>
           )}
         </ul>
