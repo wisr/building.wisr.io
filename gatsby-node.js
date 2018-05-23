@@ -75,8 +75,11 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
 
 exports.onPostBuild = () => {
   try {
-    fs.mkdirSync(path.join(__dirname, '/public/.circleci/'))
-  } catch (err) {}
+    fs.mkdirSync(path.join(__dirname, '/public/.circleci/'));
+    console.log("Created /public/.circleci/");
+  } catch (err) {
+    console.log("Unable to create /public/.circleci/", err);
+  }
 
   // Copy CircleCI config
   try {
@@ -84,6 +87,7 @@ exports.onPostBuild = () => {
       path.join(__dirname, '/.circleci/config.yml'),
       path.join(__dirname, '/public/.circleci/config.yml')
     )
+    console.log("Created /public/.circleci/config.yml");
   } catch (err) {
     console.log('Unable to write file:', err)
   }
