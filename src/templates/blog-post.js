@@ -26,7 +26,6 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     const { previous, next } = this.props.pathContext
-    console.log(next);
     return (
       <div>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
@@ -52,7 +51,7 @@ class BlogPostTemplate extends React.Component {
           style={{
             display: 'flex',
             flexWrap: 'wrap',
-            justifyContent: 'space-between',
+            justifyConteucnt: 'space-between',
             listStyle: 'none',
             marginLeft: 0,
             marginReft: 0,
