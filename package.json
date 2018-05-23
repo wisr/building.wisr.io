@@ -41,6 +41,9 @@
     "type": "git",
     "url": "git+https://github.com/wisr/building.wisr.io"
   },
+  "engines": {
+    "node": "8.x"
+  },
   "scripts": {
     "dev": "gatsby develop",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
