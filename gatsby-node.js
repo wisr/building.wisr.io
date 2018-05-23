@@ -77,6 +77,8 @@ exports.onPostBuild = () => {
   try {
     fs.mkdirSync(path.join(__dirname, '/public/.circleci/'))
   } catch (err) {}
+
+  // Copy CircleCI config
   try {
     fs.copyFileSync(
       path.join(__dirname, '/.circleci/config.yml'),
@@ -85,4 +87,10 @@ exports.onPostBuild = () => {
   } catch (err) {
     console.log('Unable to write file:', err)
   }
+
+  fs.copyFileSync(
+    path.join(__dirname, '/CNAME'),
+    path.join(__dirname, '/public/CNAME')
+  )
+
 }
