@@ -42,10 +42,10 @@ class Template extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h3
+        <h1
           style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
+            ...scale(1),
+            marginBottom: rhythm(1),
             marginTop: 0,
           }}
         >
@@ -59,7 +59,7 @@ class Template extends React.Component {
           >
             Building Wisr
           </Link>
-        </h3>
+        </h1>
       )
     } else {
       header = (
