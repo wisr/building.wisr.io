@@ -1,13 +1,32 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-import Bio from '../components/Bio';
-import { ContentWrapper, PageWrapper } from "../components/Wrapper";
+import Bio from '../components/Bio'
+import { ContentWrapper, PageWrapper } from '../components/Wrapper'
 import { rhythm, scale } from '../utils/typography'
-import styled from "styled-components";
+import styled from 'styled-components'
+
+const Title = styled.h1`
+  & > a {
+    box-shadow: none;
+    text-decoration: none;
+    color: inherit;
+  }
+`;
+
+const HomepageTitle = styled(Title)`
+  ${scale(1)};
+  margin-bottom: ${rhythm(1)};
+  margin-top: 0;
+
+  @media(min-width: 35em) {
+    ${scale(1.5)};
+  }
+`;
+const SubpageTitle = styled(Title)``;
 
 const HeaderWrapper = styled.div`
-  background: #25303C;
+  background: #25303c;
   padding-bottom: 1em;
   & h1,
   & h3 {
@@ -16,12 +35,12 @@ const HeaderWrapper = styled.div`
 `;
 
 const FooterWrapper = styled.div`
-  background: #25303C;
+  background: #25303c;
   color: rgba(255, 255, 255, 0.95);
-  font-size: .85em;
+  font-size: 0.85em;
 
   ${ContentWrapper} {
-    padding: ${rhythm(.5)} 0;
+    padding: ${rhythm(0.5)} 0;
   }
 
   & h1,
@@ -42,39 +61,15 @@ class Template extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1
-          style={{
-            ...scale(1),
-            marginBottom: rhythm(1),
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'inherit',
-            }}
-            to={'/'}
-          >
-            Building Wisr
-          </Link>
-        </h1>
+        <HomepageTitle>
+          <Link to={'/'}>Building Wisr</Link>
+        </HomepageTitle>
       )
     } else {
       header = (
-        <h3>
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'inherit',
-            }}
-            to={'/'}
-          >
-            Building Wisr
-          </Link>
-        </h3>
+        <SubpageTitle>
+          <Link to={'/'}>Building Wisr</Link>
+        </SubpageTitle>
       )
     }
     return (
@@ -82,15 +77,13 @@ class Template extends React.Component {
         <HeaderWrapper>
           <ContentWrapper>
             {header}
-            <Bio inverted/>
+            <Bio inverted />
           </ContentWrapper>
         </HeaderWrapper>
-        <ContentWrapper minHeight="80vh">
-          {children()}
-        </ContentWrapper>
+        <ContentWrapper minHeight="80vh">{children()}</ContentWrapper>
         <FooterWrapper>
           <ContentWrapper>
-            <Bio inverted/>
+            <Bio inverted />
             &copy; {new Date().getFullYear()} Wisr, Inc.
           </ContentWrapper>
         </FooterWrapper>
