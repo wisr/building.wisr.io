@@ -1,5 +1,5 @@
 ---
-title: Start the Conversation With Discussions
+title: Start the Conversation with Discussions
 date: "2018-06-13T12:12:00.000Z"
 published: true
 ---
@@ -8,7 +8,7 @@ We are so excited to share that our new feature, **Discussions**, is now live! D
 
 Discussions are a powerful addition to the current Communities feature and to the Wisr platform. Members of Wisr have always had the ability to communicate with others one-on-one, but with Discussions, members can communicate one-to-many in group conversations.
 
-## Creating a new topic
+## Creating a New Topic
 
 To create a new topic, navigate to a community in your network. The sub-level navigation bar in the Community now has a **Discussions** tab. As new discussions are created, the topics will display here. When you click on a topic, you’ll see the discussion around that topic, and be able to view existing replies to that topic or add one of your own. To create a new topic, click the button with a plus sign.
 
@@ -17,7 +17,7 @@ To create a new topic, navigate to a community in your network. The sub-level na
 A couple things to note: 
 
 - Any topics or posts that you create will be shaded in blue to quickly highlight your activity
-- For all communities, you must be a member in order to create a topic or reply to a post. Public communities’ discussions are viewable, but are read only. Private and invite-only communities’ discussions are not viewable to non-members.
+- For all communities, you must be a member in order to create a topic or reply to a post. Public communities’ discussions are viewable, but are read-only. Private and invite-only communities’ discussions are not viewable to non-members.
 - To see all of your topics and posts in all communities, click the drop-down next to your avatar in the top right of your screen and select **View your Discussions**.
 
 ## Code of Conduct and Etiquette for Posting
@@ -34,7 +34,7 @@ When a post is flagged, Wisr is notified with the details of the post and why it
 
 ![Gif of admin deleting a post](./admin-deleting-a-post.gif)
 
-When you delete a member’s post, we will send an email to that member notifying them that their based has been deleted and include the reason you specified.
+When you delete a member’s post, we will send an email to that member notifying them that their post has been deleted and include the reason you specified.
 
 ## Example Topics and Posts
 
@@ -72,7 +72,7 @@ As you think about how you might want to work with alumni or students to post th
 	⁃	What are the most important transferrable skills to develop for a career in this industry?
 - Share a resource or article that the members of the community might find helpful or interesting
 
-## Take it for a spin and let us know what you think!
+## Take it for a Spin and Let Us Know What You think!
 
 To test the **Discussions** feature, create a test community in 'invite only' mode so that only you and any other staff/colleagues you invite will see it. After you’re done testing, you can archive that community. Please note, if you create a topic or post in an existing community to see how it works and then delete the post, all members who view the forum will see that a post was deleted, so it's best to do testing in a community that you don’t mind deleting.
 
