@@ -24,7 +24,7 @@ A couple things to note:
 
 A link to Wisr’s [Code of Conduct](https://www.wisr.io/code-of-conduct) will be visible to every person every time they create a topic or reply to a post. Our Code of Conduct details a number of things, including types of posts that may be subject to removal; it is a work in progress as we get feedback from schools on the behavioral expectations of members. The [Code of Conduct](https://www.wisr.io/code-of-conduct) and our [FAQs and Guidelines for Discussions](http://help.wisr.io/discussions/faqs-and-guidlines-for-discussions) follows the precedent from many of the world's leading discussion forums.
 
-## Flagging or deleting a post or topic
+### Flagging or deleting a post or topic
 
 Every member of your Wisr site has the ability to flag a topic or post that they suspect violates the Code of Conduct. Each topic and post has a flag icon that can be clicked. When this happens, the member will be asked to give a reason for flagging the post:
 
