@@ -28,11 +28,11 @@ A link to Wisr’s [Code of Conduct](https://www.wisr.io/code-of-conduct) will b
 
 Every member of your Wisr site has the ability to flag a topic or post that they suspect violates the Code of Conduct. Each topic and post has a flag icon that can be clicked. When this happens, the member will be asked to give a reason for flagging the post:
 
-[Gif of flagging a post](./flagging-a-post.gif)
+![Gif of flagging a post](./flagging-a-post.gif)
 
 When a post is flagged, Wisr is notified with the details of the post and why it was flagged. Wisr will notify administrators at your school or organization of any flagged content so you can review it and either delete the post or clear the flag. If you choose to delete the post, you’ll be asked to specify the reason for deleting the post.
 
-[Gif of admin deleting a post](./admin-deleting-a-post.gif)
+![Gif of admin deleting a post](./admin-deleting-a-post.gif)
 
 When you delete a member’s post, we will send an email to that member notifying them that their based has been deleted and include the reason you specified.
 
