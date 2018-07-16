@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://building.wisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 16 Jul 2018 07:53:14 GMT</lastBuildDate><item><title><![CDATA[Start the Conversation with Discussions]]></title><description><![CDATA[We are so excited to share that our new feature,  Discussions , is now live! Discussions are messages boards inside of your  Communities…]]></description><link>https://building.wisr.io//start-the-conversation-with-discussions/</link><guid isPermaLink="false">https://building.wisr.io//start-the-conversation-with-discussions/</guid><pubDate>Fri, 13 Jul 2018 12:12:00 GMT</pubDate><content:encoded>&lt;p&gt;We are so excited to share that our new feature, &lt;strong&gt;Discussions&lt;/strong&gt;, is now live! Discussions are messages boards inside of your &lt;strong&gt;Communities&lt;/strong&gt;, where members can create topics and start conversations that are relevant to the communities they’ve joined.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://building.wisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 16 Jul 2018 08:08:27 GMT</lastBuildDate><item><title><![CDATA[Start the Conversation with Discussions]]></title><description><![CDATA[We are so excited to share that our new feature,  Discussions , is now live! Discussions are messages boards inside of your  Communities…]]></description><link>https://building.wisr.io//start-the-conversation-with-discussions/</link><guid isPermaLink="false">https://building.wisr.io//start-the-conversation-with-discussions/</guid><pubDate>Fri, 13 Jul 2018 12:12:00 GMT</pubDate><content:encoded>&lt;p&gt;We are so excited to share that our new feature, &lt;strong&gt;Discussions&lt;/strong&gt;, is now live! Discussions are messages boards inside of your &lt;strong&gt;Communities&lt;/strong&gt;, where members can create topics and start conversations that are relevant to the communities they’ve joined.&lt;/p&gt;
 &lt;p&gt;Discussions are a powerful addition to the current Communities feature and to the Wisr platform. Members of Wisr have always had the ability to communicate with others one-on-one, but with Discussions, members can communicate one-to-many in group conversations.&lt;/p&gt;
 &lt;h2&gt;Creating a New Topic&lt;/h2&gt;
 &lt;p&gt;To create a new topic, navigate to a community in your network. The sub-level navigation bar in the Community now has a &lt;strong&gt;Discussions&lt;/strong&gt; tab. As new discussions are created, the topics will display here. When you click on a topic, you’ll see the discussion around that topic, and be able to view existing replies to that topic or add one of your own. To create a new topic, click the button with a plus sign.&lt;/p&gt;
@@ -38,10 +38,14 @@
 &lt;p&gt;As you think about how you might want to work with alumni or students to post the first couple of topics into your Wisr network’s communities, here a few ideas:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Welcome message to members of the community, sharing any community-specific expectations for participating in a discussion.&lt;/li&gt;
-&lt;li&gt;Poll your alumni and students on a topic relevant to the type of community.
-⁃	What’s your favorite neighborhood in this city?
-⁃	What’s the best advice you’ve received for navigating the challenges of college to career as a POC/Military Vet/First-Gen student, etc.?
-⁃	What are the most important transferrable skills to develop for a career in this industry?&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Poll your alumni and students on a topic relevant to the type of community.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What’s your favorite neighborhood in this city?&lt;/li&gt;
+&lt;li&gt;What’s the best advice you’ve received for navigating the challenges of college to career as a POC/Military Vet/First-Gen student, etc.?&lt;/li&gt;
+&lt;li&gt;What are the most important transferrable skills to develop for a career in this industry?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;Share a resource or article that the members of the community might find helpful or interesting&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Take it for a Spin and Let Us Know What You think!&lt;/h2&gt;
