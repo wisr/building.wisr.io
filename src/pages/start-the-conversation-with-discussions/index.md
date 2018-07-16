@@ -67,9 +67,9 @@ As you think about how you might want to work with alumni or students to post th
 
 - Welcome message to members of the community, sharing any community-specific expectations for participating in a discussion.
 - Poll your alumni and students on a topic relevant to the type of community.
-	⁃	What’s your favorite neighborhood in this city?
-	⁃	What’s the best advice you’ve received for navigating the challenges of college to career as a POC/Military Vet/First-Gen student, etc.?
-	⁃	What are the most important transferrable skills to develop for a career in this industry?
+	-	What’s your favorite neighborhood in this city?
+	-	What’s the best advice you’ve received for navigating the challenges of college to career as a POC/Military Vet/First-Gen student, etc.?
+	-	What are the most important transferrable skills to develop for a career in this industry?
 - Share a resource or article that the members of the community might find helpful or interesting
 
 ## Take it for a Spin and Let Us Know What You think!
