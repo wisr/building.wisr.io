@@ -1,6 +1,6 @@
 ---
 title: Start the Conversation with Discussions
-date: "2018-06-13T12:12:00.000Z"
+date: "2018-07-13T12:12:00.000Z"
 published: true
 ---
 
@@ -14,7 +14,7 @@ To create a new topic, navigate to a community in your network. The sub-level na
 
 ![Gif of creating a new post](./creating-a-post.gif)
 
-A couple things to note: 
+A couple things to note:
 
 - Any topics or posts that you create will be shaded in blue to quickly highlight your activity
 - For all communities, you must be a member in order to create a topic or reply to a post. Public communities’ discussions are viewable, but are read-only. Private and invite-only communities’ discussions are not viewable to non-members.
@@ -38,7 +38,7 @@ When you delete a member’s post, we will send an email to that member notifyin
 
 ## Example Topics and Posts
 
-Depending on the nature of the community, the topics of conversations and the questions people post may differ widely. We’ve identified three primary types of communities that our partner schools and organizations are creating: 
+Depending on the nature of the community, the topics of conversations and the questions people post may differ widely. We’ve identified three primary types of communities that our partner schools and organizations are creating:
 
 - Regional or location-based (Alumni in New York, Midwest Alumni, Los Angeles Alumni, etc.)
 - Affinity or shared experience/background (First Generation Students and Alumni; Varsity Athletics; Greek Life; Military/Veterans)

@@ -21,6 +21,20 @@ const StyledLink = styled(Link)`
   }
 `;
 
+const PostContent = styled.div`
+  & strong {
+    font-weight: 500;
+  }
+
+  & p {
+    line-height: 1.5rem;
+  }
+
+  & a {
+    color: #333;
+  }
+`;
+
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
@@ -40,7 +54,7 @@ class BlogPostTemplate extends React.Component {
         >
           {post.frontmatter.date}
         </p>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <PostContent dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
             marginBottom: rhythm(1),
