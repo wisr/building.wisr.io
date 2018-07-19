@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://building.wisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 19 Jul 2018 02:42:58 GMT</lastBuildDate><item><title><![CDATA[Start the Conversation with Discussions]]></title><description><![CDATA[We are so excited to share that our new feature,  Discussions , is now live! Discussions are messages boards inside of your  Communities…]]></description><link>https://building.wisr.io//start-the-conversation-with-discussions/</link><guid isPermaLink="false">https://building.wisr.io//start-the-conversation-with-discussions/</guid><pubDate>Fri, 13 Jul 2018 12:12:00 GMT</pubDate><content:encoded>&lt;p&gt;We are so excited to share that our new feature, &lt;strong&gt;Discussions&lt;/strong&gt;, is now live! Discussions are messages boards inside of your &lt;strong&gt;Communities&lt;/strong&gt;, where members can create topics and start conversations that are relevant to the communities they’ve joined.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://building.wisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 19 Jul 2018 02:50:34 GMT</lastBuildDate><item><title><![CDATA[Start the Conversation with Discussions]]></title><description><![CDATA[We are so excited to share that our new feature,  Discussions , is now live! Discussions are messages boards inside of your  Communities…]]></description><link>https://building.wisr.io//start-the-conversation-with-discussions/</link><guid isPermaLink="false">https://building.wisr.io//start-the-conversation-with-discussions/</guid><pubDate>Fri, 13 Jul 2018 12:12:00 GMT</pubDate><content:encoded>&lt;p&gt;We are so excited to share that our new feature, &lt;strong&gt;Discussions&lt;/strong&gt;, is now live! Discussions are messages boards inside of your &lt;strong&gt;Communities&lt;/strong&gt;, where members can create topics and start conversations that are relevant to the communities they’ve joined.&lt;/p&gt;
 &lt;p&gt;Discussions are a powerful addition to the current Communities feature and to the Wisr platform. Members of Wisr have always had the ability to communicate with others one-on-one, but with Discussions, members can communicate one-to-many in group conversations.&lt;/p&gt;
 &lt;h2&gt;Creating a New Topic&lt;/h2&gt;
 &lt;p&gt;To create a new topic, navigate to a community in your network. The sub-level navigation bar in the Community now has a &lt;strong&gt;Discussions&lt;/strong&gt; tab. As new discussions are created, the topics will display here. When you click on a topic, you’ll see the discussion around that topic, and be able to view existing replies to that topic or add one of your own. To create a new topic, click the button with a plus sign.&lt;/p&gt;
@@ -69,7 +69,42 @@
 &lt;p&gt;And lastly, we’ve added a new optional &lt;em&gt;Way to Help&lt;/em&gt; that has been highly requested by many of the admins and faculty at our partner schools. It is:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Speaking on a panel or in a classroom&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This selection will show up on members’ profiles and as an option to filter search results, making it extremely easy for faculty and staff to quickly identify alumni that are willing to volunteer their time and expertise to participate on an career-related panel or in the classroom to talk with students. &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./admin-community-detail.png&quot; alt=&quot;Wisr admin community detail page with a circle around the &amp;#x22;This community is featured&amp;#x22; toggle&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/way-to-help-041e359206969b8dd45032f92bb24815-edf4b.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.06015037593986%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAAD30lEQVQ4y42Se0zbVRTHf0wmjjhcom7DtRt90SEyXo2OghCC1Y5HIg917I+hG9ucgIhuEYpu9TeXuMV/tomJukRN1BhYHNhpFBYYaQZjcRgT0Ln+lD7o41dKCy3t+vuV3q+31f2lUU/yyTnnnnvPPefcy9y8Zs502WaM8y4763E73uKp9rodrJd3sQteDxsKBdloVGAjkUiSpYCfdTsd7ILPxwZDIdZPfZ/LZnTPW0/dstwsYU6/827Zd8NXMHr1BkbM13FpdApfj0xgeOwart+YxeXLo7jQ34/BwSGYTJdwxTyJH6dnMTj0DQb6BzBw0YSvhr7HxeEJnD53nmXyiipK9DXNQl3ts2LH4SNC9+usaOhmxVNvHBc/OmkUn6mtFnPUarFYoxEzM7eIWyTbxMcrnhSzlTnihoz7RIU8Wzz0/OHbzY37oNFUdTOPlOq1ba/0EuO+Peho7yRDn38M06cf4NtP+jB4/gx6OttxqLUVrQcOQveEDuXaEhTn5+PRggJoCouRl5NLelv3xj482oHe5gYDU5yXqz3W3UP6ThxH6WNlpG3/fnS91Irduxuwt2UPKitLoauqQH1DI+qqd6FGr0d1ZQV0ZTtRkL8DSqWC1FfrY23Nz+HpqkoDk742RZuRnkqYu1OxJjWVaHZWoFy3C5lbpUhJS0HGAxm4f+MGyFUyPLhpIzIlEsi3SrB+3RowDJOApKXdFctYn45196QZmE2bN2u3yeVEpsiC+uHtRFdbh5r6RuQXFUEmz4JSpaJahiyFDHKlHAqVHNlqFbK3Z0OtVtK4kp6VxeQ0LpVKDMzIyLDW4/EQClZWVkgwuIylpQAikTAEUURUECDcISok1+iXgcvthofn4XQ6STgcjoGKheMMjNls1lqtNmKxWGC3O4jNZofD4YDNZoPVakXCT9hJnxKLRhFZXoZzbg4+pxMri4tECIWSCa2cxcCMjY5qvd4F4nF74PV6idPpQiAQQCgUQjAYTJK0l/+0hfAKwrwbPL1swTmfSErCvoUY4qv4/ZefacKxMW0g4CdLS8vw8nyifPyX3KZV+hYX4aOtJ4rw+/3JCm12u4EZHx8voe2szs3Nxek8VkVRjBNC4v8kd9bpPOOJfXSecZongZBs2WrtYSYmrpYmWqQb8H/lpx8m8Gr7QXS93I43j3ai7cAL+PKLzzAzM3uMuTAwUDg9PX1ramrqt8nJSfo2Fs5ut3O06r9Bu+B4nufeP3eGK8zfwVXrn+LKy8o4lVL5a0tLi8dkMr1I/yWzlvIQRUqR/KX/lZzcPKmRfVva9doRqfHEScnZ9/okTU1Nidi9fwB35BzbtqMrEwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Wisr member profile page with red cirlce around the Speaking on a panel in a classroom option&quot;
+        title=&quot;&quot;
+        src=&quot;/static/way-to-help-041e359206969b8dd45032f92bb24815-fb8a0.png&quot;
+        srcset=&quot;/static/way-to-help-041e359206969b8dd45032f92bb24815-1a291.png 148w,
+/static/way-to-help-041e359206969b8dd45032f92bb24815-2bc4a.png 295w,
+/static/way-to-help-041e359206969b8dd45032f92bb24815-fb8a0.png 590w,
+/static/way-to-help-041e359206969b8dd45032f92bb24815-526de.png 885w,
+/static/way-to-help-041e359206969b8dd45032f92bb24815-fa2eb.png 1180w,
+/static/way-to-help-041e359206969b8dd45032f92bb24815-edf4b.png 1330w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;p&gt;If you’d like to turn on this new option in your Wisr site, drop us a line at &lt;a href=&quot;support@wisr.io&quot;&gt;support@wisr.io&lt;/a&gt; and we’ll get it set up for you. &lt;/p&gt;
 &lt;p&gt;Thanks for reading!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A New Way to Explore]]></title><description><![CDATA[In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed…]]></description><link>https://building.wisr.io//a-new-way-to-explore/</link><guid isPermaLink="false">https://building.wisr.io//a-new-way-to-explore/</guid><pubDate>Thu, 17 May 2018 12:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In order to increase visibility of Communities in your Wisr site, we’ve overhauled the Explore tab entirely. Previously, the default landed on the Industries tab and members of your network would have to click into a non-descript Communities tab to even see what they were.&lt;/p&gt;
 &lt;h2&gt;Explore Overview&lt;/h2&gt;
