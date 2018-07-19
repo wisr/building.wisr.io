@@ -4,15 +4,15 @@ date: "2018-06-17"
 published: true
 ---
 
-## Subschools
-
-### Degree Data is Good
-
-Wisr’s education data append lets our schools to tie known education data for alumni (degree type, graduation year, and major) to their pre-verified records, so that when an alum signs up, their degree is pre-populated in the member’s profile. This helps our schools maintain data integrity, because members will not have to manually enter their education data, which can often result in spelling errors and inconsistent formatting for the major and degree type fields.
+Wisr’s education data append lets our schools tie known degree data for alumni (degree type, graduation year, and major) to their pre-verified records, so that when an alum signs up, their degree is pre-populated in the member’s profile.
 
 
 ![Image of CSV file for Wisr's education data append](./updated-no-subschool-file.png)
 
+
+### Degree Data is Good
+
+This degree data append helps our schools maintain data integrity, because members will not have to manually enter their education data. Manual degree entry often results in spelling errors or inconsistent formatting for the major and degree type fields.
 
 However, for some of our larger state schools and research institutions, this education data append was missing an important piece of the picture: _**the school or college at the university where the degree was earned**_. Unlike a traditional four-year college, these institutions have graduate and professional schools and named undergraduate colleges.
 
