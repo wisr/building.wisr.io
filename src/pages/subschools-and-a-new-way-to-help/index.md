@@ -1,7 +1,7 @@
 ---
 title: Subschools and a New Way to Help
 date: "2018-06-17"
-published: false
+published: true
 ---
 
 ## Subschools
