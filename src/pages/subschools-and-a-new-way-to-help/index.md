@@ -10,11 +10,19 @@ published: false
 
 Wisr’s education data append lets our schools to tie known education data for alumni (degree type, graduation year, and major) to their pre-verified records, so that when an alum signs up, their degree is pre-populated in the member’s profile. This helps our schools maintain data integrity, because members will not have to manually enter their education data, which can often result in spelling errors and inconsistent formatting for the major and degree type fields.
 
+<p align="center">
+![Image of CSV file for Wisr's education data append](./no-subschool-file.png)
+  </p>
+
 However, for some of our larger state schools and research institutions, this education data append was missing an important piece of the picture: _**the school or college at the university where the degree was earned**_. Unlike a traditional four-year college, these institutions have graduate and professional schools and named undergraduate colleges.
 
 ### More Contextual Degree Data is Better
 
 We’re excited to share that we’ve released a new feature called **Subschools** to help address this issue and make it easier for our partner institutions to track and maintain consistent degree information for their alumni and students. With the feature, there’s a new column for Subschool in your education data file to optionally specify the particular ‘sub’ school or college that is associated with each degree that a person earns.
+
+<p align="center">
+![Image of CSV file for Wisr's new education data append with a subschool column](./subschool-file.png)
+  </p>
 
 For example, at Wisr University, an alum may have a:
 
