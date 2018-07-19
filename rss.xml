@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://building.wisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 19 Jul 2018 03:14:29 GMT</lastBuildDate><item><title><![CDATA[Start the Conversation with Discussions]]></title><description><![CDATA[We are so excited to share that our new feature,  Discussions , is now live! Discussions are messages boards inside of your  Communities…]]></description><link>https://building.wisr.io//start-the-conversation-with-discussions/</link><guid isPermaLink="false">https://building.wisr.io//start-the-conversation-with-discussions/</guid><pubDate>Fri, 13 Jul 2018 12:12:00 GMT</pubDate><content:encoded>&lt;p&gt;We are so excited to share that our new feature, &lt;strong&gt;Discussions&lt;/strong&gt;, is now live! Discussions are messages boards inside of your &lt;strong&gt;Communities&lt;/strong&gt;, where members can create topics and start conversations that are relevant to the communities they’ve joined.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://building.wisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 19 Jul 2018 03:17:48 GMT</lastBuildDate><item><title><![CDATA[Start the Conversation with Discussions]]></title><description><![CDATA[We are so excited to share that our new feature,  Discussions , is now live! Discussions are messages boards inside of your  Communities…]]></description><link>https://building.wisr.io//start-the-conversation-with-discussions/</link><guid isPermaLink="false">https://building.wisr.io//start-the-conversation-with-discussions/</guid><pubDate>Fri, 13 Jul 2018 12:12:00 GMT</pubDate><content:encoded>&lt;p&gt;We are so excited to share that our new feature, &lt;strong&gt;Discussions&lt;/strong&gt;, is now live! Discussions are messages boards inside of your &lt;strong&gt;Communities&lt;/strong&gt;, where members can create topics and start conversations that are relevant to the communities they’ve joined.&lt;/p&gt;
 &lt;p&gt;Discussions are a powerful addition to the current Communities feature and to the Wisr platform. Members of Wisr have always had the ability to communicate with others one-on-one, but with Discussions, members can communicate one-to-many in group conversations.&lt;/p&gt;
 &lt;h2&gt;Creating a New Topic&lt;/h2&gt;
 &lt;p&gt;To create a new topic, navigate to a community in your network. The sub-level navigation bar in the Community now has a &lt;strong&gt;Discussions&lt;/strong&gt; tab. As new discussions are created, the topics will display here. When you click on a topic, you’ll see the discussion around that topic, and be able to view existing replies to that topic or add one of your own. To create a new topic, click the button with a plus sign.&lt;/p&gt;
@@ -55,15 +55,78 @@
 &lt;p&gt;Thanks for reading!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Subschools and a New Way to Help]]></title><description><![CDATA[Subschools Degree Data is Good Wisr’s education data append lets our schools to tie known education data for alumni (degree type, graduation…]]></description><link>https://building.wisr.io//subschools-and-a-new-way-to-help/</link><guid isPermaLink="false">https://building.wisr.io//subschools-and-a-new-way-to-help/</guid><pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Subschools&lt;/h2&gt;
 &lt;h3&gt;Degree Data is Good&lt;/h3&gt;
 &lt;p&gt;Wisr’s education data append lets our schools to tie known education data for alumni (degree type, graduation year, and major) to their pre-verified records, so that when an alum signs up, their degree is pre-populated in the member’s profile. This helps our schools maintain data integrity, because members will not have to manually enter their education data, which can often result in spelling errors and inconsistent formatting for the major and degree type fields.&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-![Image of CSV file for Wisr&apos;s education data append](./no-subschool-file.png)
-  &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/updated-no-subschool-file-35b56fea8b211401238acdebaa8ec748-4a9bb.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 23.596938775510203%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAA8ElEQVQY011Qa2+DMAzk//+ldf2yTTDGeKgDCWkMVCgV0CBRHuV9i11RaTvpEju+nJ0obduiaRr0fY95ntHJ/FrXGMeRz4ZhQFVVnE/TxJpa1ruu4zPW3W7sQbESRhE8z8PxGCNJEtiOwwZkFHwH8H0fkdSEYYg8z2HbDorigmVZWLM12nbl2ta4FAU0TYPxaUKIEgSahER0iRDHsdS8s2HwEz40ZLyuK5NihVyFEDCMD5iWxZMQtueRiJBlGXRdh+u6OBy+uBHV/1OZ5JKmJ+z3z3h5fUN6Pj+633k3PMnveNrtYJoWVFWFKMs/U278BYM0erSS0XMXAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Image of CSV file for Wisr&apos;s education data append&quot;
+        title=&quot;&quot;
+        src=&quot;/static/updated-no-subschool-file-35b56fea8b211401238acdebaa8ec748-fb8a0.png&quot;
+        srcset=&quot;/static/updated-no-subschool-file-35b56fea8b211401238acdebaa8ec748-1a291.png 148w,
+/static/updated-no-subschool-file-35b56fea8b211401238acdebaa8ec748-2bc4a.png 295w,
+/static/updated-no-subschool-file-35b56fea8b211401238acdebaa8ec748-fb8a0.png 590w,
+/static/updated-no-subschool-file-35b56fea8b211401238acdebaa8ec748-4a9bb.png 784w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;p&gt;However, for some of our larger state schools and research institutions, this education data append was missing an important piece of the picture: &lt;em&gt;&lt;strong&gt;the school or college at the university where the degree was earned&lt;/strong&gt;&lt;/em&gt;. Unlike a traditional four-year college, these institutions have graduate and professional schools and named undergraduate colleges.&lt;/p&gt;
 &lt;h3&gt;More Contextual Degree Data is Better&lt;/h3&gt;
 &lt;p&gt;We’re excited to share that we’ve released a new feature called &lt;strong&gt;Subschools&lt;/strong&gt; to help address this issue and make it easier for our partner institutions to track and maintain consistent degree information for their alumni and students. With the feature, there’s a new column for Subschool in your education data file to optionally specify the particular ‘sub’ school or college that is associated with each degree that a person earns.&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-![Image of CSV file for Wisr&apos;s new education data append with a subschool column](./subschool-file.png)
-  &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/subschool-file-e0fc5ff5b2ae8a95470436ac2dea2fad-ffbc3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 21.052631578947366%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAA3klEQVQY001Pi26CQBD0/3+rhSKtBT0hV4gUPC5o5WkDyKNMb8+YeMkktzu7szOrpmlQlqXGMAzI8wvqusHv9Yr8koP4rutQVRXattX/R28cR/R9j3meMU2TxorIVKQIggBJkoDzLyVYQ0qJ41EgjmN4ew++76vFP5xOGT42G83RkQeKolCmqrvgsiwIwxAvrwai6BvPL8symOYb7PUa5/OPrg3DhOO6sO13fCpxx3HAdgyHQ3QXHG435cDTA5xzbZ3i0yFyZFmWXpKphBAC2+0OjDHslXNXCVMKik/4B2VbJ8gHAShBAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Image of CSV file for Wisr&apos;s new education data append with a subschool column&quot;
+        title=&quot;&quot;
+        src=&quot;/static/subschool-file-e0fc5ff5b2ae8a95470436ac2dea2fad-fb8a0.png&quot;
+        srcset=&quot;/static/subschool-file-e0fc5ff5b2ae8a95470436ac2dea2fad-1a291.png 148w,
+/static/subschool-file-e0fc5ff5b2ae8a95470436ac2dea2fad-2bc4a.png 295w,
+/static/subschool-file-e0fc5ff5b2ae8a95470436ac2dea2fad-fb8a0.png 590w,
+/static/subschool-file-e0fc5ff5b2ae8a95470436ac2dea2fad-526de.png 885w,
+/static/subschool-file-e0fc5ff5b2ae8a95470436ac2dea2fad-ffbc3.png 912w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;p&gt;For example, at Wisr University, an alum may have a:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;B.A. in Marketing from the &lt;strong&gt;College of Liberal Arts and Sciences&lt;/strong&gt; and an &lt;/li&gt;
@@ -73,7 +136,7 @@
 &lt;p&gt;Curious if the &lt;strong&gt;Subschool&lt;/strong&gt; feature is something you’d like to turn on for you school? Reach out to your Wisr Customer Success Manager to see if it’s right for you.&lt;/p&gt;
 &lt;h2&gt;A New Way to Help&lt;/h2&gt;
 &lt;p&gt;And lastly, we’ve added a new optional &lt;em&gt;Way to Help&lt;/em&gt; that has been highly requested by many of the admins and faculty at our partner schools. It is:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Speaking on a panel or in a classroom&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Speaking on a panel or in a classroom&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This selection will show up on members’ profiles and as an option to filter search results, making it extremely easy for faculty and staff to quickly identify alumni that are willing to volunteer their time and expertise to participate on an career-related panel or in the classroom to talk with students. &lt;/p&gt;
 &lt;p&gt;
   &lt;a
