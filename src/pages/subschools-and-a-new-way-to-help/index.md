@@ -39,7 +39,7 @@ And lastly, we’ve added a new optional _Way to Help_ that has been highly requ
 
 **_Speaking on a panel or in a classroom_**
 
-This selection will show up on members’ profiles and as an option to filter search results. This will make it extremely easy for faculty and staff to quickly identify alumni that are willing to volunteer their time and expertise to participate on an career-related panel or in the classroom to talk with students. 
+This selection will show up on members’ profiles and as an option to filter search results. This will make it extremely easy for faculty and staff to quickly identify alumni that are willing to volunteer their time and expertise to participate on a career-related panel or in the classroom to talk with students. 
 
 
 ![Wisr member profile page with red cirlce around the Speaking on a panel in a classroom option](./way-to-help.png)
