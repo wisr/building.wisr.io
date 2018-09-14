@@ -10,15 +10,15 @@ We are excited to share a few important improvements that we’ve made to improv
 
 We’ve gotten a lot of really great feedback on the Chat interface, and we’re glad to report that we heard you and we listened. Here are a few of the changes you’ll notice the next time you send a message in Wisr: 
 
-- A more helpful “zero-state” chat screen. When you click the **Send a Message** button and land in a new chat conversation with a person, there’s now helpful text and a link to an [article on how to write a great introductory message](https://help.wisr.io/messaging/sending-a-professional-introductory-message). We hope this helps move the conversation forward for those individuals who aren’t quite sure how to get started.
+**A more helpful “zero-state” chat screen**. When you land in a new chat conversation with a person, there’s now helpful text and a link to an [article on how to write a great introductory message](https://help.wisr.io/messaging/sending-a-professional-introductory-message). We hope this helps move the conversation forward for those individuals who aren’t quite sure how to get started.
 
 ![Image of empty chat message screen with new help language](./chat-zero-state.png)
 
-- The text bar will now grow as you type, making it easier to review and edit your message before sending.
+**The text bar will now grow as you type**, making it easier to review and edit your message before sending.
 
 ![Gif of a person typing in a chat screen and showing the text box grow](./chat-text-expand.gif)
 
-- Previously, clicking enter on a chat message would send the message. Now, hitting enter will start a new paragraph. To send your chat message, either click the paper plane icon, or select Command + Enter.
+**More intuitive send/enter key**. Previously, clicking the enter key on a chat message would send the message. Now, hitting enter will start a new paragraph. To send your chat message, either click the paper plane icon, or select Command+Enter.
 
 
 ### Scheduling a Call
@@ -28,15 +28,15 @@ As we think about making Wisr more intuitive for members, sometimes small change
 - _Does the button start dialing the other person’s phone immediately?_
 - _Does the request get sent out into the ether before I have a chance to write a message?_
 
-To bring a little more clarify to the process, we’ve made two meaningful changes: 
+To bring a little more clarity to the process, we’ve made a couple of meaningful changes: 
 
-1. Instead of request a call, members will now have the option to _schedule a call_ with each other.
+Instead of request a call, **you will now have the option to _schedule a call_ with a member**.
 
 ![Image of Wisr profile showing a new schedule a call button option](./schedule-a-call-button.png)
 
-2. When they click the **Schedule a Call** button, we’ve added helpful information in next step form, to clearly lay out what happens after your request is sent. 
+When you click the **Schedule a Call** button, we’ve added helpful information in next step form, to clearly lay out what happens after your request is sent. 
 
-![Gif of a person viewing the new help text on the schedule a call screen](./schedule-a-call-tips.gif)
+![Gif of a person viewing the new help text on the schedule a call screen](./schedule-call-tips.gif)
 
 
 ### Resume Upload
