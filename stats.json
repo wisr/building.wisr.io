@@ -21,8 +21,8 @@
       "component---src-layouts-index-js-a3f3e306d87a9330cbdb.js.map"
     ],
     "path---index": [
-      "path---index-3c3fe438d1377f2f55f1.js",
-      "path---index-3c3fe438d1377f2f55f1.js.map"
+      "path---index-937b397d43ef08608874.js",
+      "path---index-937b397d43ef08608874.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -40,6 +40,10 @@
       "path---subschools-and-a-new-way-to-help-2981ecc0068e056ddbed.js",
       "path---subschools-and-a-new-way-to-help-2981ecc0068e056ddbed.js.map"
     ],
+    "path---new-tweaks-and-improvements": [
+      "path---new-tweaks-and-improvements-a69f94648600afeddac1.js",
+      "path---new-tweaks-and-improvements-a69f94648600afeddac1.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
@@ -53,12 +57,12 @@
       "path---hello-there-0e2c470cab113f259cc7.js.map"
     ],
     "app": [
-      "app-1bf5af17ef1c14a32cce.js",
-      "app-1bf5af17ef1c14a32cce.js.map"
+      "app-e7f2ba1ab8bcc4ce6862.js",
+      "app-e7f2ba1ab8bcc4ce6862.js.map"
     ],
     "path---start-the-conversation-with-discussions": [
-      "path---start-the-conversation-with-discussions-aa3515946bc2272988bc.js",
-      "path---start-the-conversation-with-discussions-aa3515946bc2272988bc.js.map"
+      "path---start-the-conversation-with-discussions-504a9df9fe151c8124f5.js",
+      "path---start-the-conversation-with-discussions-504a9df9fe151c8124f5.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
