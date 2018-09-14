@@ -18,7 +18,7 @@ We’ve gotten a lot of really great feedback on the Chat interface, and we’re
 
 ![Gif of a person typing in a chat screen and showing the text box grow](./chat-text-expand.gif)
 
-**More intuitive send/enter key**. Previously, clicking the enter key on a chat message would send the message. Now, hitting enter will start a new paragraph. To send your chat message, either click the paper plane icon, or select Command+Enter.
+**More intuitive send/enter key**. Previously, clicking the enter key on a chat message would send the message. Now, hitting enter will start a new paragraph. To send your chat message, either click the paper plane icon, or select Command+Enter (Ctrl+Enter on Windows).
 
 
 ### Scheduling a Call
