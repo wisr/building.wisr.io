@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://building.wisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 14 Sep 2018 03:13:38 GMT</lastBuildDate><item><title><![CDATA[New Tweaks and Improvements]]></title><description><![CDATA[We are excited to share a few important improvements that we’ve made to improve the member experience in your Wisr networks. Chat Messaging…]]></description><link>https://building.wisr.io//new-tweaks-and-improvements/</link><guid isPermaLink="false">https://building.wisr.io//new-tweaks-and-improvements/</guid><pubDate>Sun, 19 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We are excited to share a few important improvements that we’ve made to improve the member experience in your Wisr networks.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Building Wisr]]></title><description><![CDATA[The Wisr product blog for site admins. Updates and announcements about new features and ongoing development.]]></description><link>https://building.wisr.io/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 14 Sep 2018 03:30:41 GMT</lastBuildDate><item><title><![CDATA[New Tweaks and Improvements]]></title><description><![CDATA[We are excited to share a few important improvements that we’ve made to improve the member experience in your Wisr networks. Chat Messaging…]]></description><link>https://building.wisr.io//new-tweaks-and-improvements/</link><guid isPermaLink="false">https://building.wisr.io//new-tweaks-and-improvements/</guid><pubDate>Sun, 19 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We are excited to share a few important improvements that we’ve made to improve the member experience in your Wisr networks.&lt;/p&gt;
 &lt;h3&gt;Chat Messaging&lt;/h3&gt;
 &lt;p&gt;We’ve gotten a lot of really great feedback on the Chat interface, and we’re glad to report that we heard you and we listened. Here are a few of the changes you’ll notice the next time you send a message in Wisr: &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A more helpful “zero-state” chat screen. When you click the &lt;strong&gt;Send a Message&lt;/strong&gt; button and land in a new chat conversation with a person, there’s now helpful text and a link to an &lt;a href=&quot;https://help.wisr.io/messaging/sending-a-professional-introductory-message&quot;&gt;article on how to write a great introductory message&lt;/a&gt;. We hope this helps move the conversation forward for those individuals who aren’t quite sure how to get started.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;A more helpful “zero-state” chat screen&lt;/strong&gt;. When you land in a new chat conversation with a person, there’s now helpful text and a link to an &lt;a href=&quot;https://help.wisr.io/messaging/sending-a-professional-introductory-message&quot;&gt;article on how to write a great introductory message&lt;/a&gt;. We hope this helps move the conversation forward for those individuals who aren’t quite sure how to get started.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -40,23 +38,17 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The text bar will now grow as you type, making it easier to review and edit your message before sending.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The text bar will now grow as you type&lt;/strong&gt;, making it easier to review and edit your message before sending.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/chat-text-expand-2c43027028be939eb08c1a7f957cbf2e.gif&quot; alt=&quot;Gif of a person typing in a chat screen and showing the text box grow&quot;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Previously, clicking enter on a chat message would send the message. Now, hitting enter will start a new paragraph. To send your chat message, either click the paper plane icon, or select Command + Enter.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;More intuitive send/enter key&lt;/strong&gt;. Previously, clicking the enter key on a chat message would send the message. Now, hitting enter will start a new paragraph. To send your chat message, either click the paper plane icon, or select Command+Enter.&lt;/p&gt;
 &lt;h3&gt;Scheduling a Call&lt;/h3&gt;
 &lt;p&gt;As we think about making Wisr more intuitive for members, sometimes small changes can have a big impact. Previously, if you wanted to set up a phone call with another member, you would click a &lt;strong&gt;Request a Call&lt;/strong&gt; button. We learned from many members that this simple call to action wasn’t very transparent as to what would happen after clicking it. Questions we’d hear include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Does the button start dialing the other person’s phone immediately?&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Does the request get sent out into the ether before I have a chance to write a message?&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;To bring a little more clarify to the process, we’ve made two meaningful changes: &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Instead of request a call, members will now have the option to &lt;em&gt;schedule a call&lt;/em&gt; with each other.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;To bring a little more clarity to the process, we’ve made a couple of meaningful changes: &lt;/p&gt;
+&lt;p&gt;Instead of request a call, &lt;strong&gt;you will now have the option to &lt;em&gt;schedule a call&lt;/em&gt; with a member&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -93,10 +85,8 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;When they click the &lt;strong&gt;Schedule a Call&lt;/strong&gt; button, we’ve added helpful information in next step form, to clearly lay out what happens after your request is sent. &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img src=&quot;./schedule-a-call-tips.gif&quot; alt=&quot;Gif of a person viewing the new help text on the schedule a call screen&quot;&gt;&lt;/p&gt;
+&lt;p&gt;When you click the &lt;strong&gt;Schedule a Call&lt;/strong&gt; button, we’ve added helpful information in next step form, to clearly lay out what happens after your request is sent. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/schedule-call-tips-a071175413fb44d910497a70d4d630e6.gif&quot; alt=&quot;Gif of a person viewing the new help text on the schedule a call screen&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Resume Upload&lt;/h3&gt;
 &lt;p&gt;Ahead of an exciting new update that you’ll read about in our next &lt;em&gt;Building Wisr&lt;/em&gt; post, we’ve added in the ability to upload a resume to your profile. This is available to all members, regardless of member type, and will make it easier for members to ask for resume advice and properly prep for calls and informational interviews.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/resume-upload-3376e513ca2a82e99fd47a51db334e4b.gif&quot; alt=&quot;Gif of a person uploading a resume to their Wisr profile&quot;&gt;&lt;/p&gt;
