@@ -23,7 +23,7 @@ We’ve gotten a lot of really great feedback on the Chat interface, and we’re
 
 ### Scheduling a Call
 
-As we think about making Wisr more intuitive for members, sometimes small changes can have a big impact. Previously, if you wanted to set up a phone call with another member, you would click a **Request a Call** button. We learned from many members that this simple call to action wasn’t very transparent as to what would happen after clicking it. Questions we’d hear include:
+As we think about making Wisr more intuitive for members, sometimes small changes can have a big impact. Previously, if you wanted to set up a phone call with another member, you would click the **Request a Call** button. We learned from many members that this simple _call to action_ wasn’t very transparent as to what would happen next. Questions we’d hear include:
 
 - _Does the button start dialing the other person’s phone immediately?_
 - _Does the request get sent out into the ether before I have a chance to write a message?_
@@ -34,7 +34,7 @@ Instead of request a call, **you will now have the option to _schedule a call_ w
 
 ![Image of Wisr profile showing a new schedule a call button option](./schedule-a-call-button.png)
 
-When you click the **Schedule a Call** button, we’ve added helpful information in next step form, to clearly lay out what happens after your request is sent. 
+When you click the **Schedule a Call** button, we’ve added helpful information in 'next step' form, to clearly lay out what happens after your request is sent. 
 
 ![Gif of a person viewing the new help text on the schedule a call screen](./schedule-call-tips.gif)
 
