@@ -38,5 +38,5 @@ The new welcome message is shorter (members don't have to read a big block of te
 
 Not only does the message offer more helpful next steps, but it does so while teaching members how to use the network. So, log into your site and check it out! We look forward to questions and feedback.
 
-Let us know what you think at support@wisr.io
+Let us know what you think at <a href="support@wisr.io">support@wisr.io</a>
 
