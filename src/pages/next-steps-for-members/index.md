@@ -4,7 +4,7 @@ date: "2018-09-30"
 published: true
 ---
 
-We are excited to share a few important improvements that we’ve made to improve the member experience in your Wisr networks.
+In an effort to make sure that each member who joins a Wisr network finds value in it as soon as possible, we've spent the last several weeks improving the onboarding experience for members and the guidance we provide when landing on your dashboard for the first time. Here's what's new:
 
 ### Goals and Ways to Help for All Members
 
@@ -19,7 +19,6 @@ So, we decided to un-tie the Goals and Ways to Help feature from member type. No
 With that said, we don't want to confuse members who expressly sign up to do one thing: either give help or get help. If you select student as your member type, you'll be shown the option to add a goal first, then ways to help if you'd like. 
 
 If you select any member type other than student, you'll be shown the options to add ways to help first, then any goals if you have them.
-
 
 ### A New Dashboard with Next Steps and a More Helpful Welcome Message
 
