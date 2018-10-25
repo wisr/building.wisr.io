@@ -1,7 +1,7 @@
 ---
 title: Goals, Ways to Help, and Next Steps for Members
 date: "2018-09-30"
-published: false
+published: true
 ---
 
 We are excited to share a few important improvements that we’ve made to improve the member experience in your Wisr networks.
