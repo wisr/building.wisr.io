@@ -12,7 +12,7 @@ After releasing our first version of **Goals** (tied to student member type) and
 
 After hearing from many alumni and students, we learned that one's member type doesn't always accurately define how a person might want to use the Wisr network. Many alumni are happy to offer help to others, but they may be seeking help themselves as they look for a new job, change careers, or consider their grad school options. Many students are seeking help on their next step, but may also want to offer help to underclassmen who are just beginning to navigate the college-to-career trek. As juniors and seniors, they have valuable insight about which classes to take and how to find a great first internship.
 
-So, we decided to un-tie the Goals and Ways to Help feature from member type. Now, no matter who you are, you will be able to add the goals you're working on to your profile, in addition to any ways you're able and willing to help others in the network.
+So, we decided to **un-tie the Goals and Ways to Help feature from member type**. Now, no matter who you are, you will be able to add the goals you're working on to your profile, in addition to any ways you're able and willing to help others in the network.
 
 ![Image of ways to help and goals onboarding screen](./goals-help-onboarding.png)
 
