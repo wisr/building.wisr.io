@@ -33,6 +33,15 @@ const PostContent = styled.div`
   & a {
     color: #333;
   }
+
+  & figcaption {
+    color: #333;
+    font-size: .8rem;
+    max-width: 590px;
+    text-align: center;
+    margin: -1rem auto 2rem auto;
+    font-weight: 400;
+  }
 `;
 
 class BlogPostTemplate extends React.Component {
