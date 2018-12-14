@@ -12,11 +12,11 @@ So, connections had to mean something different for Wisr. Something heftier — 
 
 Our first version of tracking a connection looked like this:
 
-![Image of Wisr's first dashboard for a student](./wisr-student-dashboard-1.png)
+![Image of Wisr's first dashboard for a student](./wisr-dashboard-nav-1.png)
 
-This worked, because at the time, requesting a phone call was the only way to connect with another member. Then, we introduced our direct messaging feature, **Chats**. We added a tab for chats to the top level navigation bar that looked like this: 
+This worked, because at the time, requesting a phone call ("session") was the only way to connect with another member. Then, we introduced our direct messaging feature, **Chats**. We added a tab for chats to the top level navigation bar that looked like this: 
 
-![Image of Wisr's second iteration dashboard for a student with calls and chats tab](./wisr-student-dashboard-2.png)
+![Image of Wisr's second iteration dashboard for a student with calls and chats tab](./wisr-dashboard-nav-2.png)
 
 We kept the two different modes of connecting in two separate, identifiable tabs for members.
 
@@ -68,4 +68,4 @@ We’ve moved all in-app chat and call notifications for members to a single spo
 
 ![Image of dashboard with new bell notification tool and expanded notification of a new message](./dashboard-bell-notification-expanded.png)
 
-While we're thrilled about these updates, we really want to hear what you think! Send us your feedback by dropping us a line at <a href="support@wisr.io">support@wisr.io</a>
+While we're thrilled about these updates, we really want to hear what you think! Send us your feedback by dropping us a line at <a href="support@wisr.io">support@wisr.io</a>.
