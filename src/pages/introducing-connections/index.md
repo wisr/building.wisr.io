@@ -1,7 +1,7 @@
 ---
 title: Introducing Connections: Streamlined Calls and Chats UI
-date: "2018-12-10"
-published: false
+date: "2018-12-14"
+published: true
 ---
 
 ### What is a Connection?
@@ -35,7 +35,7 @@ We’re excited to share that we’ve streamlined these two channels into one si
 ![Image of student's connections tabs with 5 connections](./connections-tab-overview.png)
 ![Image of student's connection thread with an alum with several messages exchanged](./connection-thread-activity-4.png)
 
-Now, it doesn't matter if a member starts an initial connection by sending a message or requesting a call, it’ll be easy to transition to either mode of communication, all from the same spot. Person B can respond to Person A’s call request with a chat message, and a new phone call request can be initiated while you’re exchanging chats. 
+Now, it doesn't matter if a member starts an initial connection by sending a message or requesting a call, it’ll be easy to transition to either mode of communication, all from the same spot. Person B can respond to Person A’s call request with a chat message, and a new phone call request can be initiated while you’re already exchanging chats. 
 
 The call request process hasn’t changed much, but the interface has: 
 
@@ -46,25 +46,25 @@ The call request process hasn’t changed much, but the interface has:
 
 Along with this release, we made few extra improvements to the chats and calls scheduling process:
 
-1. Inside each Connection thread with another member, you’ll see a **Schedule Call** button at the top right of the window, as well as a collapsable call scheduling tool near the bottom of the thread.
+Inside each Connection thread with another member, you’ll see a **Schedule Call** button at the top right of the window, as well as a collapsable call scheduling tool near the bottom of the thread.
 
 ![Image of two ways to schedule a call from the connections thread](./highlight-schedule-a-call.png)
 
-2. If a member has uploaded their resume to their profile, we’ve added a **View Resume** button at the top right of the window to quickly access a member's resume, making requests for resume reviews much easier to facilitate. 
+If a member has uploaded their resume to their profile, we’ve added a **View Resume** button at the top right of the window to quickly access a member's resume, making requests for resume reviews much easier to facilitate. 
 
 ![Image of button to view or download a member's resume](./view-resume.png)
 
-3. We’ve improved the design of our email notifications for members, to make it clearer what next steps they need to take in order to complete a connection with another member.
+We’ve improved the design of our email notifications for members, to make it clearer what next steps they need to take in order to complete a connection with another member.
 
 ![Image of stylized call request email notification](./call-request-email-notification.png)
 
-4. Previously, if a person received a call request from another member in the network, they were required to log back in to respond in any fashion to the request (by proposing call times or starting a chat thread). The message we sent was purely a notification, not meant to be replied to by email, but that is exactly what some members did. Their replies to these requests were routed through our support ticketing system. While we always helped them out and redirected the messages to their intended recipients, it wasn’t a great user experience for these people.
+Previously, if a person received a call request from another member in the network, they were required to log back in to respond in any fashion to the request (by proposing call times or starting a chat thread). The message we sent was purely a notification, not meant to be replied to by email, but that is exactly what some members did. Their replies to these requests were routed through our support ticketing system. While we always helped them out and redirected the messages to their intended recipients, it wasn’t a great user experience for these people.
 
-Now, **any chat message or call scheduling email notification a member receives can be replied to by email** and we’ll auto thread it back into their Connection thread. This is a more seamless and intuitive process for our network members.
+Now, **any chat message or call scheduling email notification a member receives can be replied to by email** and we’ll auto thread it back into their connection thread. This is a more seamless and intuitive process for our network members.
 
 ### Notifications in the Network
 
-We’ve moved all in-app chat and call notifications for members to a single spot in the user interface. Members now see a bell next to their avatar at the top right of the main navigation bar. When they have a new notification, they’ll see a red dot. When they click on the bell, they’ll see a list of notifications they have, whether it’s for a new chat message or a next step they need to take to finish scheduling a call.
+We’ve moved all in-app chat and call notifications for members to a single spot in the user interface. Members now see a **bell** next to their avatar at the top right of the main navigation bar. When they have a new notification, they’ll see a **red dot**. When they click on the bell, they’ll see a list of notifications they have, whether it’s for a new chat message or a next step they need to take to finish scheduling a call.
 
 ![Image of dashboard with new bell notification tool and expanded notification of a new message](./dashboard-bell-notification-expanded.png)
 
