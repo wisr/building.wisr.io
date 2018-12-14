@@ -1,5 +1,5 @@
 ---
-title: Introducing Connections: Streamlined Calls and Chats UI
+title: Introducing Connections – Streamlined Calls and Chats UI
 date: "2018-12-14"
 published: true
 ---
