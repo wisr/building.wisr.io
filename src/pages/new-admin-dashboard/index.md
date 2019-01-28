@@ -6,7 +6,7 @@ published: true
 
 Logging into your Wisr admin account used to be a little…_daunting_. While we had a lot of great data for you to check out, it wasn’t always easy to quickly infer what was new and what action items you needed to take care of. After talking with admins from many of our schools, we knew it was about time to show the admin site some love ❤️.
 
-We're excited to share with you the new Wisr admin dashboard 📈:
+We're excited to share with you the new Wisr admin dashboard:
 
 ![Image of Wisr's updated admin dashboard with network counts and data infographics](./admin-dashboard.png)
 
@@ -44,13 +44,13 @@ Below the stat cards, you’ll see several infographics we’ve put together for
 
 The first graph you see will be a set of trend lines showing you the count of active members over different periods of time (daily, weekly, and monthly) 
 
-**DAU** = Daily Active Users
-**WAU** = Weekly Active Users
-**MAU** = Monthly Active Users
+DAU= Daily Active Users
+WAU = Weekly Active User
+MAU = Monthly Active User
 
 Next, you’ll see the **Top 10 Searches** performed in your network. This is a great way to get a sense of what your members are looking for and who they’re trying to connect with.
 
-The last two infographics show the percentage of your members that have added different **goals** and **volunteer items** to their profile. If you hover over any of the sections, you'll see a count of members in addition to the overall percentage.
+The last two infographics show the percentage of your members that have added different **goals** and **volunteer items** to their profile. If you hover over any of the sections of the pie chart, you'll see a count of members in addition to the overall percentages.
 
 ![zoomed in image of mouse hovering over a slice of a pie chart showing underlying count data](./goals-help-hover.png)
 
@@ -70,5 +70,5 @@ When you do, you’ll see a running list of all members who taken the action of 
 
 ![image of filtered list of members who have joined a community](./activity-joined-community.png)
 
-Loving the new dashboard and activity stream? Tell us about it! We’d love to hear your feedback and answer any questions you might have. Drop us a line at <a href="support@wisr.io">support@wisr.io</a>.
+Loving the new dashboard 📈 and activity stream? Tell us about it! We’d love to hear your feedback and answer any questions you might have. Drop us a line at <a href="support@wisr.io">support@wisr.io</a>.
 
