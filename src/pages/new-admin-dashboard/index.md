@@ -1,7 +1,7 @@
 ---
 title: Check Out Your New Admin Dashboard
 date: "2019-01-28"
-published: false
+published: true
 ---
 
 Logging into your Wisr admin account used to be a little…_daunting_. While we had a lot of great data for you to check out, it wasn’t always easy to quickly infer what was new and what action items you needed to take care of. After talking with admins from many of our schools, we knew it was about time to show the admin site some love ❤️.
@@ -22,7 +22,7 @@ Pending action items include:
 
 As we build out more alerts, you’ll see them there.
 
-###Network Counts
+### Network Counts
 
 Below any pending action items, we’ll share some handy stats for you about the recent activity in your network.
 
@@ -36,7 +36,7 @@ The network counts include the number of:
 
 The default view for these stat cards will be the last 30 days, but you can use the toggle in the upper right hand corner to view activity over the last 7 days or over the last 90 days.
 
-###Trend Data + Visualizations
+### Trend Data + Visualizations
 
 Below the stat cards, you’ll see several infographics we’ve put together for you.
 
@@ -56,7 +56,7 @@ The last two infographics show the percentage of your members that have added di
 
 As you grow your network and establish the goals you’d like to work toward, we can tweak the infographics you see on this page and add other data points for you to track and measure.
 
-###Activity Stream
+### Activity Stream
 
 We’re also excited to share that we’ve added in a network-wide **activity stream** for admins to review. You can find it by clicking the **Activity** link on the left side navigation bar while you’re logged into your admin site.
 
