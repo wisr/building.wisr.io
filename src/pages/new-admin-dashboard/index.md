@@ -44,9 +44,9 @@ Below the stat cards, you’ll see several infographics we’ve put together for
 
 The first graph you see will be a set of trend lines showing you the count of active members over different periods of time (daily, weekly, and monthly) 
 
-DAU= Daily Active Users
-WAU = Weekly Active User
-MAU = Monthly Active User
+- DAU: Daily Active Users
+- WAU: Weekly Active Users
+- MAU: Monthly Active User
 
 Next, you’ll see the **Top 10 Searches** performed in your network. This is a great way to get a sense of what your members are looking for and who they’re trying to connect with.
 
